@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Ticket Office"
+AuthUserFile /web/htdocs/www.terranovanet.it/home/cgi-bin/ticketoffice/admin/.htpasswd
+require valid-user

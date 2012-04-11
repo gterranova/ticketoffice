@@ -1,0 +1,2695 @@
+30-01-2012 12:46: default {}
+30-01-2012 12:46: showlist {}
+30-01-2012 12:46: showlog {}
+30-01-2012 13:09: default {}
+30-01-2012 13:09: register {}
+30-01-2012 13:09: insert {'name': 'roberto marangoni', 'number': '1', 'email': 'roberto.marangoni@gmail.com', 'date': '30/12/2012', 'trans': '', 'payment': 'Bank transfer'}
+30-01-2012 13:09: showticket {'id': '1'}
+30-01-2012 13:09: showpdf {'c': 'OvtG0'}
+30-01-2012 13:10: email {'id': '1'}
+30-01-2012 13:44: default {}
+30-01-2012 13:45: register {}
+30-01-2012 13:46: insert {'name': 'siegfried zurcher', 'number': '4', 'email': 'siegfriedzurcher@tiscali.it', 'date': '27/01/2012', 'trans': '000000000684002 ', 'payment': 'Bank transfer'}
+30-01-2012 13:46: showlist {'unsent': '1'}
+30-01-2012 13:46: showticket {'id': '2'}
+30-01-2012 13:46: email {'id': '2'}
+30-01-2012 13:46: register {}
+30-01-2012 13:46: showlist {}
+30-01-2012 13:46: showlist {'unsent': '1'}
+30-01-2012 13:46: showticket {'id': '3'}
+30-01-2012 13:46: email {'id': '3'}
+30-01-2012 13:46: showlist {}
+30-01-2012 13:46: showlist {'unsent': '1'}
+30-01-2012 13:46: showticket {'id': '4'}
+30-01-2012 13:46: email {'id': '4'}
+30-01-2012 13:46: showlist {}
+30-01-2012 13:46: showlist {'unsent': '1'}
+30-01-2012 13:46: showticket {'id': '5'}
+30-01-2012 13:47: email {'id': '5'}
+30-01-2012 13:47: showlist {}
+30-01-2012 13:47: showticket {'id': '2'}
+30-01-2012 13:47: showpdf {'c': 'SdNmY'}
+30-01-2012 13:53: default {}
+30-01-2012 13:53: showlist {}
+30-01-2012 13:53: showlist {'unsent': '1'}
+30-01-2012 13:53: showlist {}
+30-01-2012 13:54: showticket {'id': '2'}
+30-01-2012 13:54: showlist {}
+30-01-2012 13:54: showticket {'id': '3'}
+30-01-2012 13:54: showlist {}
+30-01-2012 13:54: showlist {'unsent': '1'}
+30-01-2012 13:54: settings {}
+30-01-2012 13:55: showlog {}
+30-01-2012 15:04: default {}
+30-01-2012 15:04: showlist {}
+30-01-2012 15:05: showlist {'unsent': '1'}
+30-01-2012 15:05: default {}
+30-01-2012 15:05: settings {}
+30-01-2012 15:57: showlist {}
+30-01-2012 17:20: register {}
+30-01-2012 17:20: showlist {}
+30-01-2012 17:21: register {}
+30-01-2012 17:23: insert {'name': 'FRANCOIS emilie', 'number': '1', 'email': 'fmajo24@hotmail.com', 'date': '26/01/2012', 'trans': '9VW135457F1832926', 'payment': 'Paypal'}
+30-01-2012 17:23: register {}
+30-01-2012 17:25: insert {'name': 'Simone Cella', 'number': '2', 'email': ' \tsimone.cella@gmail.com', 'date': '26/01/2012', 'trans': '0SU433363L423054T', 'payment': 'Paypal'}
+30-01-2012 17:25: register {}
+30-01-2012 17:26: insert {'name': 'Stefano Mantovani', 'number': '2', 'email': 'stefano.mantovani@gmail.com', 'date': '26/01/2012', 'trans': '3KU68963M60274927', 'payment': 'Paypal'}
+30-01-2012 17:26: register {}
+30-01-2012 17:27: insert {'name': 'Sergio Scrofani', 'number': '1', 'email': 'sergio82it@yahoo.it', 'date': '26/01/2012', 'trans': '5SV60869RM071562G', 'payment': 'Paypal'}
+30-01-2012 17:27: register {}
+30-01-2012 17:28: insert {'name': 'Massimiliano Basile', 'number': '1', 'email': 'maxbasile@hotmail.com', 'date': '27/01/2012', 'trans': '8MH878677K767140J', 'payment': 'Paypal'}
+30-01-2012 17:29: register {}
+30-01-2012 17:29: insert {'name': 'Sebastien Levy', 'number': '1', 'email': ' \tlevy.seb@gmail.com', 'date': '27/01/2012', 'trans': '14A49121T1168483S', 'payment': 'Paypal'}
+30-01-2012 17:29: register {}
+30-01-2012 17:31: insert {'name': 'Alice Domenis', 'number': '5', 'email': 'alice.domenis@gmail.com', 'date': '27/01/2012', 'trans': '1UY92402RL200060M', 'payment': 'Paypal'}
+30-01-2012 17:31: register {}
+30-01-2012 17:32: insert {'name': 'Luca Ruberto', 'number': '1', 'email': 'luca.ruberto@gmail.com', 'date': '27/01/2012', 'trans': '83L623290L617943L', 'payment': 'Paypal'}
+30-01-2012 17:32: register {}
+30-01-2012 17:33: insert {'name': 'Massimo Volpati', 'number': '3', 'email': 'ziutek@hotmail.com', 'date': '28/01/2012', 'trans': '6W827826CK440202P', 'payment': 'Paypal'}
+30-01-2012 17:34: register {}
+30-01-2012 17:35: insert {'name': 'Sabrina Wulisse', 'number': '1', 'email': 'argenta7@virgilio.it', 'date': '30/01/2012', 'trans': '80L83777BG0686149', 'payment': 'Paypal'}
+30-01-2012 17:35: register {}
+30-01-2012 17:36: insert {'name': 'Stefano Cortinovis', 'number': '2', 'email': 'stef.cortinovis@yahoo.com', 'date': '30/01/2012', 'trans': '2MM68473PK0266056', 'payment': 'Paypal'}
+30-01-2012 17:36: showlist {'unsent': '1'}
+30-01-2012 17:36: showticket {'id': '6'}
+30-01-2012 17:37: showpdf {'c': '5KUhb'}
+30-01-2012 17:39: email {'id': '6'}
+30-01-2012 17:39: showlist {'unsent': '1'}
+30-01-2012 17:39: showticket {'id': '7'}
+30-01-2012 17:39: email {'id': '7'}
+30-01-2012 17:39: showlist {}
+30-01-2012 17:39: showlist {'unsent': '1'}
+30-01-2012 17:39: showticket {'id': '8'}
+30-01-2012 17:39: email {'id': '8'}
+30-01-2012 17:39: showlist {}
+30-01-2012 17:39: showlist {'unsent': '1'}
+30-01-2012 17:39: showticket {'id': '9'}
+30-01-2012 17:39: email {'id': '9'}
+30-01-2012 17:39: showlist {}
+30-01-2012 17:39: showlist {'unsent': '1'}
+30-01-2012 17:39: showticket {'id': '10'}
+30-01-2012 17:39: email {'id': '10'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:40: showlist {'unsent': '1'}
+30-01-2012 17:40: showticket {'id': '11'}
+30-01-2012 17:40: email {'id': '11'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:40: showlist {'unsent': '1'}
+30-01-2012 17:40: showticket {'id': '12'}
+30-01-2012 17:40: email {'id': '12'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:40: showlist {'unsent': '1'}
+30-01-2012 17:40: showticket {'id': '13'}
+30-01-2012 17:40: email {'id': '13'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:40: showlist {'unsent': '1'}
+30-01-2012 17:40: showticket {'id': '14'}
+30-01-2012 17:40: email {'id': '14'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:40: showlist {'unsent': '1'}
+30-01-2012 17:40: showticket {'id': '15'}
+30-01-2012 17:40: email {'id': '15'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:40: showlist {'unsent': '1'}
+30-01-2012 17:40: showticket {'id': '16'}
+30-01-2012 17:40: email {'id': '16'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:40: showticket {'id': '1'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:40: showlist {'unsent': '1'}
+30-01-2012 17:40: showticket {'id': '17'}
+30-01-2012 17:40: email {'id': '17'}
+30-01-2012 17:40: showlist {}
+30-01-2012 17:41: showlist {'unsent': '1'}
+30-01-2012 17:41: showticket {'id': '18'}
+30-01-2012 17:41: email {'id': '18'}
+30-01-2012 17:41: showlist {}
+30-01-2012 17:41: showlist {'unsent': '1'}
+30-01-2012 17:41: showticket {'id': '19'}
+30-01-2012 17:41: email {'id': '19'}
+30-01-2012 17:41: showlist {}
+30-01-2012 17:41: showlist {'unsent': '1'}
+30-01-2012 17:41: showticket {'id': '20'}
+30-01-2012 17:41: email {'id': '20'}
+30-01-2012 17:41: showlist {}
+30-01-2012 17:41: showlist {'unsent': '1'}
+30-01-2012 17:41: showticket {'id': '21'}
+30-01-2012 17:41: email {'id': '21'}
+30-01-2012 17:41: showlist {}
+30-01-2012 17:41: showlist {'unsent': '1'}
+30-01-2012 17:41: showticket {'id': '22'}
+30-01-2012 17:41: email {'id': '22'}
+30-01-2012 17:41: showlist {}
+30-01-2012 17:41: showlist {'unsent': '1'}
+30-01-2012 17:41: showticket {'id': '23'}
+30-01-2012 17:41: email {'id': '23'}
+30-01-2012 17:41: showlist {}
+30-01-2012 17:41: showlist {'unsent': '1'}
+30-01-2012 17:41: showticket {'id': '24'}
+30-01-2012 17:41: email {'id': '24'}
+30-01-2012 17:41: showlist {}
+30-01-2012 17:41: showlist {'unsent': '1'}
+30-01-2012 17:41: showticket {'id': '25'}
+30-01-2012 17:41: email {'id': '25'}
+30-01-2012 17:41: default {}
+30-01-2012 17:42: showlist {}
+30-01-2012 17:43: showticket {'id': '1'}
+30-01-2012 17:43: showlist {}
+30-01-2012 17:44: showticket {'id': '2'}
+30-01-2012 17:44: showticket {'id': '3'}
+30-01-2012 17:44: showticket {'id': '4'}
+30-01-2012 17:44: showticket {'id': '5'}
+30-01-2012 17:44: showticket {'id': '6'}
+30-01-2012 17:44: showticket {'id': '7'}
+30-01-2012 17:44: showticket {'id': '8'}
+30-01-2012 17:44: default {}
+30-01-2012 18:14: default {}
+31-01-2012 09:35: default {}
+31-01-2012 09:35: showlist {}
+31-01-2012 19:07: default {}
+31-01-2012 19:07: register {}
+31-01-2012 19:07: showlist {}
+31-01-2012 19:07: settings {}
+31-01-2012 19:08: register {}
+31-01-2012 19:15: default {}
+31-01-2012 19:15: register {}
+31-01-2012 19:15: showlist {}
+31-01-2012 19:15: showticket {'id': '24'}
+31-01-2012 19:16: showpdf {'c': 'LAcag'}
+31-01-2012 19:38: register {}
+31-01-2012 19:38: showlist {}
+31-01-2012 19:38: showticket {'id': '24'}
+31-01-2012 19:38: showpdf {'c': 'LAcag'}
+31-01-2012 19:38: showlist {}
+31-01-2012 19:39: settings {}
+31-01-2012 19:40: default {}
+31-01-2012 19:40: register {}
+31-01-2012 19:40: showlist {}
+31-01-2012 20:05: register {}
+31-01-2012 20:06: insert {'name': 'Paolo Maffei', 'number': '1', 'email': 'linusrocks@gmail.com', 'date': '30/01/2012', 'trans': '0BL47054FR9830349', 'payment': 'Paypal'}
+31-01-2012 20:07: register {}
+31-01-2012 20:07: insert {'name': 'Massimo Pistolese', 'number': '2', 'email': 'max.pistolese@gmail.com', 'date': '30/01/2012', 'trans': '85G39801J6737443E', 'payment': 'Paypal'}
+31-01-2012 20:08: register {}
+31-01-2012 20:10: insert {'name': 'Daniel LABATUT', 'number': '5', 'email': 'jegagneplus@yahoo.fr', 'date': '31/01/2012', 'trans': '0LH6038222194212D', 'payment': 'Paypal'}
+31-01-2012 20:10: register {}
+31-01-2012 20:11: insert {'name': 'Massimiliano Vezzoli', 'number': '1', 'email': 'massmiliano.vezzoli@yahoo.it', 'date': '31/01/2012', 'trans': '4PJ80541LB851934W', 'payment': 'Paypal'}
+31-01-2012 20:11: register {}
+31-01-2012 20:12: insert {'name': 'Stefania Pannucci', 'number': '1', 'email': 'stefania.pannucci@gmail.com', 'date': '31/01/2012', 'trans': '7MR434916F070162C', 'payment': 'Paypal'}
+31-01-2012 20:12: showlist {'unsent': '1'}
+31-01-2012 20:12: showticket {'id': '26'}
+31-01-2012 20:12: email {'id': '26'}
+31-01-2012 20:12: showlist {}
+31-01-2012 20:12: showlist {'unsent': '1'}
+31-01-2012 20:12: showticket {'id': '27'}
+31-01-2012 20:12: email {'id': '27'}
+31-01-2012 20:12: showlist {}
+31-01-2012 20:12: showlist {'unsent': '1'}
+31-01-2012 20:12: showticket {'id': '28'}
+31-01-2012 20:12: email {'id': '28'}
+31-01-2012 20:12: showlist {}
+31-01-2012 20:12: showlist {'unsent': '1'}
+31-01-2012 20:12: showticket {'id': '29'}
+31-01-2012 20:12: email {'id': '29'}
+31-01-2012 20:12: showlist {}
+31-01-2012 20:12: showlist {'unsent': '1'}
+31-01-2012 20:12: showticket {'id': '30'}
+31-01-2012 20:12: email {'id': '30'}
+31-01-2012 20:12: showlist {}
+31-01-2012 20:12: showlist {'unsent': '1'}
+31-01-2012 20:13: showticket {'id': '31'}
+31-01-2012 20:13: email {'id': '31'}
+31-01-2012 20:13: showlist {}
+31-01-2012 20:13: showlist {'unsent': '1'}
+31-01-2012 20:13: showticket {'id': '32'}
+31-01-2012 20:13: email {'id': '32'}
+31-01-2012 20:13: showlist {}
+31-01-2012 20:13: showlist {'unsent': '1'}
+31-01-2012 20:13: showticket {'id': '33'}
+31-01-2012 20:13: email {'id': '33'}
+31-01-2012 20:13: showlist {}
+31-01-2012 20:13: showlist {'unsent': '1'}
+31-01-2012 20:13: showticket {'id': '34'}
+31-01-2012 20:13: email {'id': '34'}
+31-01-2012 20:13: showlist {}
+31-01-2012 20:13: showlist {'unsent': '1'}
+31-01-2012 20:13: showticket {'id': '35'}
+31-01-2012 20:13: email {'id': '35'}
+31-01-2012 20:14: showlist {}
+31-01-2012 20:14: register {}
+31-01-2012 20:14: insert {'name': 'Marco Catino', 'number': '1', 'email': 'nasvssan@gmail.com', 'date': '31/01/2012', 'trans': '7H358955U7548224E', 'payment': 'Paypal'}
+31-01-2012 20:15: showlist {'unsent': '1'}
+31-01-2012 20:15: register {}
+31-01-2012 20:16: insert {'name': 'Tiziano Scolari', 'number': '2', 'email': ' \ttixvox@yahoo.it', 'date': '31/01/2012', 'trans': '28G6950901332704R', 'payment': 'Paypal'}
+31-01-2012 20:16: showlist {'unsent': '1'}
+31-01-2012 20:16: register {}
+31-01-2012 20:17: insert {'name': 'Lorenzo Giocoli', 'number': '1', 'email': 'putiferio@hotmail.com', 'date': '31/01/2012', 'trans': '4P81750093369500C', 'payment': 'Paypal'}
+31-01-2012 20:17: showlist {'unsent': '1'}
+31-01-2012 20:18: showticket {'id': '39'}
+31-01-2012 20:18: email {'id': '39'}
+31-01-2012 20:18: showlist {}
+31-01-2012 20:18: showlist {'unsent': '1'}
+31-01-2012 20:18: showticket {'id': '36'}
+31-01-2012 20:18: email {'id': '36'}
+31-01-2012 20:18: showlist {}
+31-01-2012 20:18: showlist {'unsent': '1'}
+31-01-2012 20:18: showticket {'id': '37'}
+31-01-2012 20:18: email {'id': '37'}
+31-01-2012 20:18: showlist {}
+31-01-2012 20:18: showlist {'unsent': '1'}
+31-01-2012 20:18: showticket {'id': '38'}
+31-01-2012 20:18: email {'id': '38'}
+31-01-2012 20:18: showlist {}
+31-01-2012 20:18: showlist {'unsent': '1'}
+31-01-2012 20:18: showlist {}
+01-02-2012 01:48: showlog {}
+01-02-2012 01:49: default {}
+01-02-2012 01:49: showlist {}
+01-02-2012 01:50: showticket {'id': '39'}
+01-02-2012 01:50: showlist {}
+01-02-2012 01:50: showticket {'id': '35'}
+01-02-2012 01:50: showlist {}
+01-02-2012 01:50: showlist {}
+01-02-2012 14:56: default {}
+01-02-2012 14:56: showlist {}
+01-02-2012 14:56: showticket {'id': '2'}
+01-02-2012 14:56: showlist {}
+01-02-2012 14:57: settings {}
+01-02-2012 14:57: register {}
+01-02-2012 14:57: showlist {}
+01-02-2012 14:57: showlist {'unsent': '1'}
+01-02-2012 14:57: showlist {}
+01-02-2012 14:58: showticket {'id': '32'}
+01-02-2012 14:58: showlist {}
+01-02-2012 14:58: showticket {'id': '37'}
+01-02-2012 14:58: showlist {}
+01-02-2012 15:02: showticket {'id': '1'}
+01-02-2012 15:03: showlist {}
+01-02-2012 15:03: showlist {'unsent': '1'}
+01-02-2012 15:05: showlist {}
+01-02-2012 15:14: default {}
+01-02-2012 15:14: showlist {}
+01-02-2012 16:50: default {}
+01-02-2012 16:50: showlist {}
+01-02-2012 18:08: showlist {}
+01-02-2012 18:08: showticket {'id': '12'}
+01-02-2012 18:08: email {'id': '12'}
+01-02-2012 18:31: default {}
+01-02-2012 18:31: showlist {}
+01-02-2012 18:31: showticket {'id': '18'}
+01-02-2012 22:59: showlist {}
+01-02-2012 22:59: showlist {'unsent': '1'}
+01-02-2012 22:59: register {}
+01-02-2012 23:10: insert {'name': 'Steven Cummings', 'number': '1', 'email': 'steven.j.cummings@gmail.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:10: register {}
+01-02-2012 23:13: insert {'name': 'Monica Indelicato', 'number': '1', 'email': 'info@monicaindelicato.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:14: register {}
+01-02-2012 23:16: insert {'name': 'GIAMPAOLO FACOETTI', 'number': '1', 'email': 'giampaolo.facoetti@gmail.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:18: register {}
+01-02-2012 23:19: insert {'name': 'Pierluigi Cammarano', 'number': '1', 'email': 'pierluigi.cammarano@unicredit.eu', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:22: register {}
+01-02-2012 23:22: insert {'name': 'Leandro Montero', 'number': '1', 'email': 'lpmontero@gmail.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:23: register {}
+01-02-2012 23:26: insert {'name': 'alisa cabassi ', 'number': '3', 'email': 'alisavaga@gmail.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:26: register {}
+01-02-2012 23:27: insert {'name': 'Marco Antonio Bertolotti', 'number': '3', 'email': 'mab68@tiscali.it', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:28: register {}
+01-02-2012 23:28: insert {'name': 'Francesco Stingi', 'number': '1', 'email': 'francesco.stingi@gmail.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:28: register {}
+01-02-2012 23:30: insert {'name': 'S\xc5\x82awomir Bury ', 'number': '2', 'email': 'slawomir.bury@gmail.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:30: register {}
+01-02-2012 23:32: insert {'name': 'Riccardo Baitello ', 'number': '1', 'email': 'achab75@gmail.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:32: register {}
+01-02-2012 23:33: insert {'name': 'Lidia Emma Garavaglia ', 'number': '1', 'email': 'lidia.garavaglia@gmail.com', 'date': '01/02/2012', 'trans': '', 'payment': 'Paypal'}
+01-02-2012 23:48: showlist {'unsent': '1'}
+01-02-2012 23:48: showticket {'id': '40'}
+01-02-2012 23:48: email {'id': '40'}
+01-02-2012 23:48: showlist {'unsent': '1'}
+01-02-2012 23:48: showticket {'id': '41'}
+01-02-2012 23:48: email {'id': '41'}
+01-02-2012 23:48: showlist {'unsent': '1'}
+01-02-2012 23:48: showticket {'id': '42'}
+01-02-2012 23:48: email {'id': '42'}
+01-02-2012 23:49: showlist {'unsent': '1'}
+01-02-2012 23:49: showticket {'id': '43'}
+01-02-2012 23:49: email {'id': '43'}
+01-02-2012 23:49: showlist {'unsent': '1'}
+01-02-2012 23:49: showticket {'id': '44'}
+01-02-2012 23:49: email {'id': '44'}
+01-02-2012 23:49: showticket {'id': '44'}
+01-02-2012 23:49: showlist {'unsent': '1'}
+01-02-2012 23:49: showticket {'id': '45'}
+01-02-2012 23:49: email {'id': '45'}
+01-02-2012 23:49: showticket {'id': '45'}
+01-02-2012 23:49: showlist {'unsent': '1'}
+01-02-2012 23:49: showticket {'id': '46'}
+01-02-2012 23:49: email {'id': '46'}
+01-02-2012 23:49: showticket {'id': '46'}
+01-02-2012 23:49: showlist {'unsent': '1'}
+01-02-2012 23:49: showticket {'id': '47'}
+01-02-2012 23:49: email {'id': '47'}
+01-02-2012 23:49: showticket {'id': '47'}
+01-02-2012 23:49: showlist {'unsent': '1'}
+01-02-2012 23:49: showticket {'id': '48'}
+01-02-2012 23:49: email {'id': '48'}
+01-02-2012 23:49: showticket {'id': '48'}
+01-02-2012 23:49: showlist {'unsent': '1'}
+01-02-2012 23:49: showticket {'id': '49'}
+01-02-2012 23:50: email {'id': '49'}
+01-02-2012 23:50: showticket {'id': '49'}
+01-02-2012 23:50: showlist {'unsent': '1'}
+01-02-2012 23:50: showticket {'id': '50'}
+01-02-2012 23:50: email {'id': '50'}
+01-02-2012 23:50: showticket {'id': '50'}
+01-02-2012 23:50: showlist {'unsent': '1'}
+01-02-2012 23:50: showticket {'id': '51'}
+01-02-2012 23:50: email {'id': '51'}
+01-02-2012 23:50: showticket {'id': '51'}
+01-02-2012 23:50: showlist {'unsent': '1'}
+01-02-2012 23:50: showticket {'id': '52'}
+01-02-2012 23:50: email {'id': '52'}
+01-02-2012 23:50: showticket {'id': '52'}
+01-02-2012 23:50: showlist {'unsent': '1'}
+01-02-2012 23:50: showticket {'id': '53'}
+01-02-2012 23:50: email {'id': '53'}
+01-02-2012 23:50: showticket {'id': '53'}
+01-02-2012 23:50: showlist {'unsent': '1'}
+01-02-2012 23:50: showticket {'id': '54'}
+01-02-2012 23:50: email {'id': '54'}
+01-02-2012 23:50: showticket {'id': '54'}
+01-02-2012 23:50: showlist {'unsent': '1'}
+01-02-2012 23:50: showticket {'id': '55'}
+01-02-2012 23:50: email {'id': '55'}
+01-02-2012 23:50: showticket {'id': '55'}
+01-02-2012 23:50: showlist {'unsent': '1'}
+01-02-2012 23:51: showlist {}
+01-02-2012 23:51: showticket {'id': '4'}
+01-02-2012 23:51: showpdf {'c': 'Obcvz'}
+02-02-2012 23:50: default {}
+02-02-2012 23:50: showlist {}
+03-02-2012 10:25: default {}
+03-02-2012 10:26: showlist {}
+03-02-2012 10:40: showticket {'id': '2'}
+03-02-2012 10:41: showlist {}
+03-02-2012 10:41: register {}
+03-02-2012 10:44: insert {'name': 'Stefano Versolatto', 'number': '3', 'email': 'SIR.WASTED@GMAIL.com', 'date': '02/02/2012', 'trans': 'CRO : 44831496911 ', 'payment': 'Bank transfer'}
+03-02-2012 10:44: register {}
+03-02-2012 10:45: insert {'name': 'giulio biscaro', 'number': '1', 'email': 'giulio.biscaro@gmail.com', 'date': '3/2/21012', 'trans': 'CRO : 91056559012', 'payment': 'Bank transfer'}
+03-02-2012 10:45: showlist {'unsent': '1'}
+03-02-2012 10:45: showticket {'id': '56'}
+03-02-2012 10:45: email {'id': '56'}
+03-02-2012 10:45: showticket {'id': '56'}
+03-02-2012 10:45: showlist {'unsent': '1'}
+03-02-2012 10:45: showticket {'id': '57'}
+03-02-2012 10:45: email {'id': '57'}
+03-02-2012 10:45: showticket {'id': '57'}
+03-02-2012 10:45: showlist {'unsent': '1'}
+03-02-2012 10:45: showticket {'id': '58'}
+03-02-2012 10:45: email {'id': '58'}
+03-02-2012 10:45: showticket {'id': '58'}
+03-02-2012 10:45: showlist {'unsent': '1'}
+03-02-2012 10:45: showticket {'id': '59'}
+03-02-2012 10:45: email {'id': '59'}
+03-02-2012 10:46: showticket {'id': '59'}
+03-02-2012 10:46: showlist {'unsent': '1'}
+03-02-2012 10:46: showlist {}
+03-02-2012 18:34: showlist {}
+03-02-2012 18:35: showticket {'id': '12'}
+03-02-2012 18:35: showpdf {'c': 'mg5v7'}
+04-02-2012 17:53: showlist {}
+04-02-2012 17:53: showticket {'id': '59'}
+04-02-2012 18:16: register {}
+04-02-2012 18:17: insert {'name': 'Anna Luisa Di Napoli', 'number': '1', 'email': 'weltenbummlerin84@yahoo.it', 'date': '02/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:17: register {}
+04-02-2012 18:19: insert {'name': 'Veru gasparroni', 'number': '2', 'email': 'buongiornoanoi@gmail.com', 'date': '02/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:20: register {}
+04-02-2012 18:20: insert {'name': 'Federico Spinelli', 'number': '1', 'email': 'fe.spinelli@gmail.com', 'date': '02/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:20: register {}
+04-02-2012 18:22: insert {'name': 'Kristine Fjodorova ', 'number': '2', 'email': 'kristine.fjodorova@gmail.com', 'date': '02/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:22: register {}
+04-02-2012 18:23: insert {'name': 'julia joanna jagniewska', 'number': '1', 'email': 'poison_jjj@yahoo.it', 'date': '02/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:23: register {}
+04-02-2012 18:24: insert {'name': 'Armando Pariota', 'number': '1', 'email': 'armando.pariota@gmail.com', 'date': '02/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:25: register {}
+04-02-2012 18:25: insert {'name': 'Minh Ut Pham', 'number': '1', 'email': 'Minhut.Pham@gmail.com', 'date': '03/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:25: showticket {'id': '4'}
+04-02-2012 18:25: showlist {}
+04-02-2012 18:26: register {}
+04-02-2012 18:27: insert {'name': 'Simone Cella', 'number': '3', 'email': 'simone.cella@gmail.com', 'date': '03/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:27: register {}
+04-02-2012 18:28: insert {'name': 'Marco Petino', 'number': '1', 'email': 'marco@petino.it', 'date': '03/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:28: register {}
+04-02-2012 18:28: insert {'name': 'Roberto Vola Gera', 'number': '1', 'email': 'roberto.volagera@libero.it', 'date': '03/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 18:28: register {}
+04-02-2012 18:30: insert {'name': 'Luca Spinello', 'number': '2', 'email': 'spino1981@gmail.com', 'date': '04/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+04-02-2012 18:33: register {}
+04-02-2012 18:33: insert {'name': 'Eszter Badics', 'number': '2', 'email': 'eszter.badics@gmail.com', 'date': '04/02/2012', 'trans': '', 'payment': 'Paypal'}
+04-02-2012 20:21: default {}
+04-02-2012 20:21: showlist {}
+04-02-2012 20:21: showlist {'unsent': '1'}
+04-02-2012 20:22: showticket {'id': '60'}
+04-02-2012 20:22: email {'id': '60'}
+04-02-2012 20:22: showlist {}
+04-02-2012 20:22: showlist {'unsent': '1'}
+04-02-2012 20:22: showticket {'id': '61'}
+04-02-2012 20:23: email {'id': '61'}
+04-02-2012 20:23: showlist {}
+04-02-2012 20:23: showlist {'unsent': '1'}
+04-02-2012 20:23: showticket {'id': '62'}
+04-02-2012 20:23: email {'id': '62'}
+04-02-2012 20:23: showlist {}
+04-02-2012 20:23: showlist {'unsent': '1'}
+04-02-2012 20:23: showticket {'id': '63'}
+04-02-2012 20:23: email {'id': '63'}
+04-02-2012 20:23: showlist {}
+04-02-2012 20:23: showlist {'unsent': '1'}
+04-02-2012 20:23: showticket {'id': '64'}
+04-02-2012 20:23: email {'id': '64'}
+04-02-2012 20:23: showlist {}
+04-02-2012 20:23: showlist {'unsent': '1'}
+04-02-2012 20:23: showticket {'id': '65'}
+04-02-2012 20:23: email {'id': '65'}
+04-02-2012 20:23: showlist {}
+04-02-2012 20:23: showlist {'unsent': '1'}
+04-02-2012 20:23: showticket {'id': '66'}
+04-02-2012 20:23: email {'id': '66'}
+04-02-2012 20:23: showlist {}
+04-02-2012 20:23: showlist {'unsent': '1'}
+04-02-2012 20:24: showticket {'id': '67'}
+04-02-2012 20:24: email {'id': '67'}
+04-02-2012 20:24: showlist {}
+04-02-2012 20:24: showlist {'unsent': '1'}
+04-02-2012 20:24: showticket {'id': '68'}
+04-02-2012 20:24: email {'id': '68'}
+04-02-2012 20:24: showlist {}
+04-02-2012 20:24: showlist {'unsent': '1'}
+04-02-2012 20:24: showticket {'id': '69'}
+04-02-2012 20:25: showlist {}
+04-02-2012 20:25: showlist {'unsent': '1'}
+04-02-2012 20:26: showticket {'id': '69'}
+04-02-2012 20:26: email {'id': '69'}
+04-02-2012 20:26: showlist {}
+04-02-2012 20:26: showlist {'unsent': '1'}
+04-02-2012 20:26: showticket {'id': '70'}
+04-02-2012 20:26: email {'id': '70'}
+04-02-2012 20:26: showlist {}
+04-02-2012 20:26: showlist {'unsent': '1'}
+04-02-2012 20:26: showticket {'id': '71'}
+04-02-2012 20:26: email {'id': '71'}
+04-02-2012 20:26: showlist {}
+04-02-2012 20:26: showlist {'unsent': '1'}
+04-02-2012 20:26: showticket {'id': '72'}
+04-02-2012 20:26: email {'id': '72'}
+04-02-2012 20:26: showlist {}
+04-02-2012 20:26: showlist {'unsent': '1'}
+04-02-2012 20:26: showticket {'id': '73'}
+04-02-2012 20:26: email {'id': '73'}
+04-02-2012 20:26: showlist {}
+04-02-2012 20:26: showlist {'unsent': '1'}
+04-02-2012 20:26: showticket {'id': '74'}
+04-02-2012 20:27: email {'id': '74'}
+04-02-2012 20:27: showlist {}
+04-02-2012 20:27: showlist {'unsent': '1'}
+04-02-2012 20:27: showticket {'id': '75'}
+04-02-2012 20:27: email {'id': '75'}
+04-02-2012 20:27: showlist {}
+04-02-2012 20:27: showlist {'unsent': '1'}
+04-02-2012 20:27: showticket {'id': '76'}
+04-02-2012 20:27: email {'id': '76'}
+04-02-2012 20:27: showlist {}
+04-02-2012 20:27: showlist {'unsent': '1'}
+04-02-2012 20:27: showticket {'id': '77'}
+04-02-2012 20:27: email {'id': '77'}
+04-02-2012 20:28: default {}
+04-02-2012 20:28: settings {}
+04-02-2012 20:28: showlist {}
+04-02-2012 22:46: showlist {'unsent': '1'}
+05-02-2012 12:40: showlist {'unsent': '1'}
+06-02-2012 09:37: showticket {'id': '2'}
+06-02-2012 09:37: showlist {}
+06-02-2012 19:31: showlist {}
+06-02-2012 19:31: register {}
+06-02-2012 19:32: insert {'name': 'Marco Aguzzi ', 'number': '1', 'email': 'marco.aguzzi@gmail.com', 'date': '04/02/2012', 'trans': '', 'payment': 'Paypal'}
+06-02-2012 19:32: register {}
+06-02-2012 19:34: insert {'name': 'Yulia Titenok', 'number': '2', 'email': 'jtitenok@gmail.com', 'date': '04/02/2012', 'trans': '', 'payment': 'Paypal'}
+06-02-2012 19:34: register {}
+06-02-2012 19:35: insert {'name': 'Paolo Gertosio', 'number': '1', 'email': 'paologertosio@alice.it', 'date': '05/02/2012', 'trans': '', 'payment': 'Paypal'}
+06-02-2012 19:35: register {}
+06-02-2012 19:36: insert {'name': 'Miss J C Palfreman', 'number': '1', 'email': 'jo_palf1@hotmail.com', 'date': '05/02/2012', 'trans': '', 'payment': 'Paypal'}
+06-02-2012 19:36: register {}
+06-02-2012 19:37: insert {'name': 'Dietmar Dr. Eisenhammer ', 'number': '1', 'email': 'ferrowi@web.de', 'date': '05/02/2012', 'trans': '', 'payment': 'Paypal'}
+06-02-2012 19:37: register {}
+06-02-2012 19:38: insert {'name': 'Gianfranco Caccamo ', 'number': '2', 'email': 'gcaccamo@gmail.com', 'date': '06/02/2012', 'trans': '', 'payment': 'Paypal'}
+06-02-2012 19:38: register {}
+06-02-2012 19:39: insert {'name': 'Alberto Vergani ', 'number': '1', 'email': 'a.vergani@fastwebnet.it', 'date': '06/02/2012', 'trans': '', 'payment': 'Paypal'}
+06-02-2012 19:39: showticket {'id': '53'}
+06-02-2012 19:40: showticket {'id': '1'}
+06-02-2012 19:41: showlist {}
+06-02-2012 19:41: showlist {'unsent': '1'}
+06-02-2012 19:41: showticket {'id': '78'}
+06-02-2012 19:41: email {'id': '78'}
+06-02-2012 19:41: showlist {}
+06-02-2012 19:41: showlist {'unsent': '1'}
+06-02-2012 19:41: showticket {'id': '79'}
+06-02-2012 19:41: email {'id': '79'}
+06-02-2012 19:41: showlist {}
+06-02-2012 19:41: showlist {'unsent': '1'}
+06-02-2012 19:41: showticket {'id': '80'}
+06-02-2012 19:41: email {'id': '80'}
+06-02-2012 19:41: register {}
+06-02-2012 19:41: showlist {}
+06-02-2012 19:41: showlist {'unsent': '1'}
+06-02-2012 19:41: showticket {'id': '81'}
+06-02-2012 19:41: email {'id': '81'}
+06-02-2012 19:41: showlist {}
+06-02-2012 19:41: showlist {'unsent': '1'}
+06-02-2012 19:41: showticket {'id': '83'}
+06-02-2012 19:41: email {'id': '83'}
+06-02-2012 19:41: settings {}
+06-02-2012 19:41: showlist {}
+06-02-2012 19:41: showlist {'unsent': '1'}
+06-02-2012 19:41: showticket {'id': '82'}
+06-02-2012 19:41: email {'id': '82'}
+06-02-2012 19:41: showlist {}
+06-02-2012 19:41: showlist {'unsent': '1'}
+06-02-2012 19:42: showticket {'id': '84'}
+06-02-2012 19:42: email {'id': '84'}
+06-02-2012 19:42: showlist {}
+06-02-2012 19:42: showlist {'unsent': '1'}
+06-02-2012 19:42: showticket {'id': '85'}
+06-02-2012 19:42: email {'id': '85'}
+06-02-2012 19:42: showlist {}
+06-02-2012 19:42: showlist {'unsent': '1'}
+06-02-2012 19:42: showticket {'id': '86'}
+06-02-2012 19:42: email {'id': '86'}
+06-02-2012 19:43: showlist {}
+06-02-2012 19:43: showlist {'unsent': '1'}
+06-02-2012 19:54: default {}
+06-02-2012 19:54: showlist {}
+06-02-2012 19:54: default {}
+06-02-2012 19:54: settings {}
+06-02-2012 22:34: showlist {}
+07-02-2012 00:31: showlist {}
+07-02-2012 00:31: register {}
+07-02-2012 00:32: insert {'name': 'silvia serina ', 'number': '2', 'email': 'seriglam@libero.it', 'date': '06/02/2012', 'trans': '', 'payment': 'Paypal'}
+07-02-2012 00:32: register {}
+07-02-2012 00:32: insert {'name': 'Vincenzo Liguori ', 'number': '1', 'email': 'nihil_nomen@yahoo.it', 'date': '06/02/2012', 'trans': '', 'payment': 'Paypal'}
+07-02-2012 00:32: showlist {'unsent': '1'}
+07-02-2012 00:33: showticket {'id': '87'}
+07-02-2012 00:33: email {'id': '87'}
+07-02-2012 00:33: register {}
+07-02-2012 00:33: showlist {'unsent': '1'}
+07-02-2012 00:33: showticket {'id': '88'}
+07-02-2012 00:33: email {'id': '88'}
+07-02-2012 00:33: showlist {'unsent': '1'}
+07-02-2012 00:33: showticket {'id': '89'}
+07-02-2012 00:33: email {'id': '89'}
+07-02-2012 09:22: showticket {'id': '2'}
+07-02-2012 09:22: showlist {}
+07-02-2012 09:22: showticket {'id': '34'}
+07-02-2012 09:22: showpdf {'c': 'hFbzk'}
+07-02-2012 09:32: showticket {'id': '2'}
+07-02-2012 09:38: showticket {'id': '2'}
+07-02-2012 09:38: showlist {}
+07-02-2012 09:53: showticket {'id': '2'}
+07-02-2012 09:53: showlist {}
+07-02-2012 10:20: showticket {'id': '2'}
+07-02-2012 10:21: showlist {}
+07-02-2012 11:34: showticket {'id': '2'}
+07-02-2012 11:34: showlist {}
+07-02-2012 17:40: showticket {'id': '2'}
+07-02-2012 17:40: showlist {}
+07-02-2012 17:40: register {}
+07-02-2012 17:41: insert {'name': 'NELLO GARCIA GRIMALDI', 'number': '1', 'email': 'ANIELLOGRIMALDI@GMAIL.COM', 'date': '07/02', 'trans': '000000000688143 ', 'payment': 'Bank transfer'}
+07-02-2012 17:41: showlist {}
+07-02-2012 17:42: showticket {'id': '90'}
+07-02-2012 17:42: email {'id': '90'}
+08-02-2012 02:00: showlist {}
+08-02-2012 02:02: register {}
+08-02-2012 02:06: insert {'name': 'Petra Balvinova ', 'number': '4', 'email': 'petball@post.cz', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:07: register {}
+08-02-2012 02:08: insert {'name': 'EMANUEL GOLLOB ', 'number': '2', 'email': 'emanuel.gollob@gmail.com', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:08: register {}
+08-02-2012 02:08: insert {'name': 'silvia conlan ', 'number': '3', 'email': 'conlan@hotmail.com', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:09: register {}
+08-02-2012 02:09: insert {'name': 'Valerio Maggipinto ', 'number': '1', 'email': 'valeriomaggipinto@libero.it', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:10: register {}
+08-02-2012 02:10: insert {'name': 'stefania angrisani ', 'number': '1', 'email': 's8_tekna7@live.it', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:11: register {}
+08-02-2012 02:12: insert {'name': 'Gianandrea Uggetti ', 'number': '2', 'email': 'guggetti@gmail.com', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:12: register {}
+08-02-2012 02:12: insert {'name': 'Barbara Pozzi ', 'number': '3', 'email': 'barbara8410@hotmail.it', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:13: register {}
+08-02-2012 02:13: insert {'name': 'Jan Kosina ', 'number': '1', 'email': 'kosinaj@gmail.com', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:14: showticket {'id': '4'}
+08-02-2012 02:14: register {}
+08-02-2012 02:14: showlist {}
+08-02-2012 02:14: register {}
+08-02-2012 02:16: insert {'name': 'Gloria Scarano ', 'number': '4', 'email': 'gloria.scarano@gmail.com', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:16: register {}
+08-02-2012 02:17: insert {'name': 'C I ALEXANDER-MARSH ', 'number': '1', 'email': 'oui_le_pantalon@hotmail.com', 'date': '07/02/2012', 'trans': '', 'payment': 'Paypal'}
+08-02-2012 02:17: showlist {'unsent': '1'}
+08-02-2012 02:18: showticket {'id': '107'}
+08-02-2012 02:18: email {'id': '107'}
+08-02-2012 02:18: showlist {'unsent': '1'}
+08-02-2012 02:18: showticket {'id': '91'}
+08-02-2012 02:18: email {'id': '91'}
+08-02-2012 02:18: showlist {'unsent': '1'}
+08-02-2012 02:18: showticket {'id': '92'}
+08-02-2012 02:18: email {'id': '92'}
+08-02-2012 02:19: showticket {'id': '1'}
+08-02-2012 02:19: showlist {'unsent': '1'}
+08-02-2012 02:19: showticket {'id': '93'}
+08-02-2012 02:19: email {'id': '93'}
+08-02-2012 02:19: showlist {'unsent': '1'}
+08-02-2012 02:19: showticket {'id': '94'}
+08-02-2012 02:19: email {'id': '94'}
+08-02-2012 02:19: showlist {'unsent': '1'}
+08-02-2012 02:19: showticket {'id': '95'}
+08-02-2012 02:19: email {'id': '95'}
+08-02-2012 02:19: showlist {'unsent': '1'}
+08-02-2012 02:19: showticket {'id': '99'}
+08-02-2012 02:19: email {'id': '99'}
+08-02-2012 02:19: showticket {'id': '99'}
+08-02-2012 02:19: showlist {'unsent': '1'}
+08-02-2012 02:19: showticket {'id': '101'}
+08-02-2012 02:19: email {'id': '101'}
+08-02-2012 02:19: showticket {'id': '101'}
+08-02-2012 02:19: showlist {'unsent': '1'}
+08-02-2012 02:19: showticket {'id': '96'}
+08-02-2012 02:19: email {'id': '96'}
+08-02-2012 02:20: showticket {'id': '96'}
+08-02-2012 02:20: showlist {'unsent': '1'}
+08-02-2012 02:20: showlist {'unsent': '1'}
+08-02-2012 02:20: showticket {'id': '98'}
+08-02-2012 02:20: email {'id': '98'}
+08-02-2012 02:20: showticket {'id': '98'}
+08-02-2012 02:20: showlist {'unsent': '1'}
+08-02-2012 02:20: showlist {'unsent': '1'}
+08-02-2012 02:20: showticket {'id': '97'}
+08-02-2012 02:20: email {'id': '97'}
+08-02-2012 02:20: showticket {'id': '97'}
+08-02-2012 02:20: showlist {'unsent': '1'}
+08-02-2012 02:20: showticket {'id': '100'}
+08-02-2012 02:20: email {'id': '100'}
+08-02-2012 02:20: showticket {'id': '100'}
+08-02-2012 02:20: showlist {'unsent': '1'}
+08-02-2012 02:20: showticket {'id': '102'}
+08-02-2012 02:20: email {'id': '102'}
+08-02-2012 02:21: showticket {'id': '102'}
+08-02-2012 02:21: showlist {'unsent': '1'}
+08-02-2012 02:21: showticket {'id': '105'}
+08-02-2012 02:21: email {'id': '105'}
+08-02-2012 02:21: showticket {'id': '105'}
+08-02-2012 02:21: email {'id': '105'}
+08-02-2012 02:21: showticket {'id': '105'}
+08-02-2012 02:21: showlist {'unsent': '1'}
+08-02-2012 02:21: showticket {'id': '108'}
+08-02-2012 02:21: email {'id': '108'}
+08-02-2012 02:21: showticket {'id': '108'}
+08-02-2012 02:21: showlist {'unsent': '1'}
+08-02-2012 02:21: showticket {'id': '103'}
+08-02-2012 02:21: email {'id': '103'}
+08-02-2012 02:21: showticket {'id': '103'}
+08-02-2012 02:21: showlist {'unsent': '1'}
+08-02-2012 02:21: showticket {'id': '104'}
+08-02-2012 02:21: email {'id': '104'}
+08-02-2012 02:21: showticket {'id': '104'}
+08-02-2012 02:21: showlist {'unsent': '1'}
+08-02-2012 02:22: showticket {'id': '110'}
+08-02-2012 02:22: email {'id': '110'}
+08-02-2012 02:22: showlist {'unsent': '1'}
+08-02-2012 02:22: showticket {'id': '106'}
+08-02-2012 02:22: email {'id': '106'}
+08-02-2012 02:22: showticket {'id': '106'}
+08-02-2012 02:22: showlist {'unsent': '1'}
+08-02-2012 02:22: showticket {'id': '109'}
+08-02-2012 02:22: email {'id': '109'}
+08-02-2012 02:22: showticket {'id': '109'}
+08-02-2012 02:22: showlist {'unsent': '1'}
+08-02-2012 02:23: showticket {'id': '112'}
+08-02-2012 02:23: email {'id': '112'}
+08-02-2012 02:23: showticket {'id': '112'}
+08-02-2012 02:23: showlist {'unsent': '1'}
+08-02-2012 02:23: showticket {'id': '111'}
+08-02-2012 02:23: email {'id': '111'}
+08-02-2012 02:23: showticket {'id': '111'}
+08-02-2012 10:27: showticket {'id': '2'}
+08-02-2012 10:28: showlist {}
+08-02-2012 11:04: showticket {'id': '2'}
+08-02-2012 11:04: register {}
+08-02-2012 11:07: insert {'name': 'FURBETTA1979 /BENEF/YAHOO.IT', 'number': '5', 'email': 'FURBETTA1979@YAHOO.IT', 'date': '08/02/2012', 'trans': '63813520001', 'payment': 'Bank transfer'}
+08-02-2012 11:07: showticket {'id': '113'}
+08-02-2012 11:07: email {'id': '113'}
+08-02-2012 11:07: showlist {}
+08-02-2012 11:07: showlist {'unsent': '1'}
+08-02-2012 11:07: showticket {'id': '114'}
+08-02-2012 11:07: email {'id': '114'}
+08-02-2012 11:07: showticket {'id': '114'}
+08-02-2012 11:07: showlist {'unsent': '1'}
+08-02-2012 11:07: showticket {'id': '115'}
+08-02-2012 11:08: email {'id': '115'}
+08-02-2012 11:08: showticket {'id': '115'}
+08-02-2012 11:08: showlist {'unsent': '1'}
+08-02-2012 11:08: showticket {'id': '116'}
+08-02-2012 11:08: email {'id': '116'}
+08-02-2012 11:08: showticket {'id': '116'}
+08-02-2012 11:08: showlist {'unsent': '1'}
+08-02-2012 11:08: showticket {'id': '117'}
+08-02-2012 11:08: email {'id': '117'}
+08-02-2012 11:08: showticket {'id': '117'}
+08-02-2012 11:08: showlist {'unsent': '1'}
+08-02-2012 11:09: register {}
+08-02-2012 11:12: insert {'name': 'Aman Khan [aman_milano@hotmail.com]', 'number': '3', 'email': 'aman_milano@hotmail.com', 'date': '', 'trans': '', 'payment': 'Bank transfer'}
+08-02-2012 11:12: showlist {'unsent': '1'}
+08-02-2012 11:12: showticket {'id': '118'}
+08-02-2012 11:12: email {'id': '118'}
+08-02-2012 11:12: showticket {'id': '118'}
+08-02-2012 11:12: showlist {'unsent': '1'}
+08-02-2012 11:12: showticket {'id': '119'}
+08-02-2012 11:12: email {'id': '119'}
+08-02-2012 11:12: showticket {'id': '119'}
+08-02-2012 11:12: showlist {'unsent': '1'}
+08-02-2012 11:12: showticket {'id': '120'}
+08-02-2012 11:12: email {'id': '120'}
+08-02-2012 11:12: showticket {'id': '120'}
+08-02-2012 11:12: showlist {'unsent': '1'}
+08-02-2012 11:18: showticket {'id': '2'}
+08-02-2012 11:19: showlist {}
+08-02-2012 13:32: showticket {'id': '2'}
+08-02-2012 13:32: showlist {}
+08-02-2012 14:47: showticket {'id': '2'}
+08-02-2012 14:47: showlist {}
+08-02-2012 19:20: showticket {'id': '2'}
+08-02-2012 19:20: showlist {}
+09-02-2012 09:24: showticket {'id': '2'}
+09-02-2012 09:24: register {}
+09-02-2012 09:25: insert {'name': 'IVAN CASTAGNA', 'number': '3', 'email': 'IVANCASTAGNA@GMAIL.COM', 'date': '09/02/2012', 'trans': '13917013109 ', 'payment': 'Bank transfer'}
+09-02-2012 09:25: showlist {'unsent': '1'}
+09-02-2012 09:25: showticket {'id': '121'}
+09-02-2012 09:25: email {'id': '121'}
+09-02-2012 09:25: showticket {'id': '121'}
+09-02-2012 09:25: showlist {'unsent': '1'}
+09-02-2012 09:25: showticket {'id': '122'}
+09-02-2012 09:25: email {'id': '122'}
+09-02-2012 09:25: showticket {'id': '122'}
+09-02-2012 09:25: showlist {'unsent': '1'}
+09-02-2012 09:25: showticket {'id': '123'}
+09-02-2012 09:26: email {'id': '123'}
+09-02-2012 09:26: showticket {'id': '123'}
+09-02-2012 09:26: showlist {'unsent': '1'}
+09-02-2012 10:54: showlist {}
+09-02-2012 10:55: showticket {'id': '73'}
+09-02-2012 10:56: showlist {}
+09-02-2012 10:56: showticket {'id': '1'}
+09-02-2012 10:58: showlist {'unsent': '1'}
+09-02-2012 14:11: showlist {}
+09-02-2012 14:11: register {}
+09-02-2012 14:12: showticket {'id': '2'}
+09-02-2012 14:12: showlist {}
+09-02-2012 14:12: showlist {'unsent': '1'}
+09-02-2012 14:13: insert {'name': 'Andrea Cassiani', 'number': '1', 'email': 'andrea_cc75@hotmail.com', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:13: register {}
+09-02-2012 14:13: insert {'name': 'Marketa Zelena ', 'number': '2', 'email': 'marketa_zelena@centrum.cz', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:13: register {}
+09-02-2012 14:15: insert {'name': 'Neri Luca ', 'number': '1', 'email': 'nero74@yahoo.com', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:15: register {}
+09-02-2012 14:15: insert {'name': 'Antonio Suevo ', 'number': '2', 'email': 'suevo.antonio@gmail.com', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:15: register {}
+09-02-2012 14:16: default {}
+09-02-2012 14:17: showlist {}
+09-02-2012 14:17: register {}
+09-02-2012 14:17: insert {'name': "FRANCESCO D'AGOSTINO ", 'number': '1', 'email': 'mhluca@libero.it', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:17: register {}
+09-02-2012 14:18: insert {'name': 'Adelio Valeriano Vanosi ', 'number': '2', 'email': 'van.ade@gmail.com', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:19: register {}
+09-02-2012 14:20: insert {'name': 'laurent tollet ', 'number': '1', 'email': 'laurenttollet@sfr.fr', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:20: register {}
+09-02-2012 14:21: insert {'name': 'DANIELA GALLO INGRAO', 'number': '1', 'email': 'massimiliano.vezzoli@yahoo.it', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:21: register {}
+09-02-2012 14:22: insert {'name': 'Stefano Cuch ', 'number': '5', 'email': 'capitancuch@libero.it', 'date': '08/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:22: register {}
+09-02-2012 14:23: insert {'name': 'Filena Fortinguerra', 'number': '1', 'email': 'filenaforti@gmail.com', 'date': '09/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:23: register {}
+09-02-2012 14:24: insert {'name': 'Daniela Freddi ', 'number': '1', 'email': 'lidia.garavaglia@gmail.com', 'date': '09/02/2012', 'trans': '', 'payment': 'Paypal'}
+09-02-2012 14:24: showticket {'id': '141'}
+09-02-2012 14:24: default {}
+09-02-2012 14:24: register {}
+09-02-2012 14:26: showticket {'id': '101'}
+09-02-2012 14:27: showlist {}
+09-02-2012 14:27: showticket {'id': '1'}
+09-02-2012 14:34: showticket {'id': '140'}
+09-02-2012 14:35: showlist {}
+09-02-2012 14:35: showlist {'unsent': '1'}
+09-02-2012 14:35: showticket {'id': '124'}
+09-02-2012 14:35: email {'id': '124'}
+09-02-2012 14:35: showlist {'unsent': '1'}
+09-02-2012 14:35: showticket {'id': '125'}
+09-02-2012 14:35: email {'id': '125'}
+09-02-2012 14:35: showlist {'unsent': '1'}
+09-02-2012 14:35: showticket {'id': '126'}
+09-02-2012 14:35: email {'id': '126'}
+09-02-2012 14:35: showlist {'unsent': '1'}
+09-02-2012 14:35: showticket {'id': '127'}
+09-02-2012 14:35: email {'id': '127'}
+09-02-2012 14:35: showlist {'unsent': '1'}
+09-02-2012 14:35: showticket {'id': '128'}
+09-02-2012 14:35: email {'id': '128'}
+09-02-2012 14:35: showlist {'unsent': '1'}
+09-02-2012 14:35: showticket {'id': '129'}
+09-02-2012 14:35: email {'id': '129'}
+09-02-2012 14:35: showlist {'unsent': '1'}
+09-02-2012 14:35: showticket {'id': '130'}
+09-02-2012 14:36: email {'id': '130'}
+09-02-2012 14:36: showlist {'unsent': '1'}
+09-02-2012 14:36: showticket {'id': '131'}
+09-02-2012 14:36: email {'id': '131'}
+09-02-2012 14:36: showlist {'unsent': '1'}
+09-02-2012 14:36: showticket {'id': '132'}
+09-02-2012 14:36: email {'id': '132'}
+09-02-2012 14:36: showlist {'unsent': '1'}
+09-02-2012 14:36: showticket {'id': '133'}
+09-02-2012 14:36: email {'id': '133'}
+09-02-2012 14:36: showticket {'id': '1'}
+09-02-2012 14:36: email {'id': '1'}
+09-02-2012 14:36: showlist {'unsent': '1'}
+09-02-2012 14:36: showticket {'id': '134'}
+09-02-2012 14:36: email {'id': '134'}
+09-02-2012 14:36: showlist {'unsent': '1'}
+09-02-2012 14:36: showticket {'id': '135'}
+09-02-2012 14:36: email {'id': '135'}
+09-02-2012 14:36: showlist {'unsent': '1'}
+09-02-2012 14:36: showticket {'id': '140'}
+09-02-2012 14:36: email {'id': '140'}
+09-02-2012 14:36: showlist {'unsent': '1'}
+09-02-2012 14:36: showticket {'id': '139'}
+09-02-2012 14:36: email {'id': '139'}
+09-02-2012 14:36: showlist {'unsent': '1'}
+09-02-2012 14:36: showticket {'id': '141'}
+09-02-2012 14:36: email {'id': '141'}
+09-02-2012 14:37: showlist {'unsent': '1'}
+09-02-2012 14:37: showticket {'id': '136'}
+09-02-2012 14:37: email {'id': '136'}
+09-02-2012 14:37: showlist {'unsent': '1'}
+09-02-2012 14:37: showticket {'id': '137'}
+09-02-2012 14:37: email {'id': '137'}
+09-02-2012 14:37: showlist {'unsent': '1'}
+09-02-2012 14:37: showticket {'id': '138'}
+09-02-2012 14:37: email {'id': '138'}
+09-02-2012 14:37: showlist {'unsent': '1'}
+09-02-2012 15:22: showticket {'id': '2'}
+09-02-2012 15:22: showlist {}
+09-02-2012 18:09: showlist {}
+09-02-2012 18:12: showticket {'id': '20'}
+09-02-2012 18:12: showpdf {'c': 'v0yQi'}
+09-02-2012 18:12: showticket {'id': '21'}
+09-02-2012 18:12: showpdf {'c': 'rIWBO'}
+09-02-2012 18:13: showticket {'id': '22'}
+09-02-2012 18:13: showpdf {'c': 'uKHec'}
+09-02-2012 18:13: register {}
+09-02-2012 18:13: insert {'name': 'giorgio', 'number': '1', 'email': 'jinhio@email.it', 'date': '01/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+09-02-2012 18:13: showlist {'unsent': '1'}
+09-02-2012 18:13: showticket {'id': '142'}
+09-02-2012 18:13: email {'id': '142'}
+09-02-2012 18:14: register {}
+09-02-2012 18:14: showlist {}
+09-02-2012 18:14: showticket {'id': '142'}
+09-02-2012 18:14: delete {'id': '142'}
+09-02-2012 18:14: showticket {'id': '21'}
+11-02-2012 17:22: showlist {}
+11-02-2012 17:32: register {}
+11-02-2012 17:35: insert {'name': 'Robert Elwischger', 'number': '1', 'email': 'salzburg09@gmail.com', 'date': '29/01/2012', 'trans': '', 'payment': 'Paypal'}
+11-02-2012 17:35: register {}
+11-02-2012 17:36: insert {'name': 'Filena Fortinguerra', 'number': '2', 'email': 'filenaforti@gmail.com', 'date': '09/02/2012', 'trans': '', 'payment': 'Paypal'}
+11-02-2012 17:36: register {}
+11-02-2012 17:37: insert {'name': 'Alessio Re', 'number': '1', 'email': 'alessio.re@gmail.com', 'date': '09/02/2012', 'trans': '', 'payment': 'Paypal'}
+11-02-2012 17:37: register {}
+11-02-2012 17:37: default {}
+11-02-2012 17:37: register {}
+11-02-2012 17:37: showlist {}
+11-02-2012 17:37: showticket {'id': '10'}
+11-02-2012 17:38: showlist {}
+11-02-2012 17:38: insert {'name': 'Eszter Badics ', 'number': '2', 'email': 'eszter.badics@gmail.com', 'date': '09/02/2012', 'trans': '', 'payment': 'Paypal'}
+11-02-2012 17:38: register {}
+11-02-2012 17:40: insert {'name': 'giovanni conti ', 'number': '1', 'email': 'giovanni conti ', 'date': '10/02/2012', 'trans': '', 'payment': 'Paypal'}
+11-02-2012 17:40: showlist {'unsent': '1'}
+11-02-2012 17:40: showticket {'id': '149'}
+11-02-2012 17:40: delete {'id': '149'}
+11-02-2012 17:41: register {}
+11-02-2012 17:41: insert {'name': 'giovanni conti ', 'number': '1', 'email': 'giovannifutre@yahoo.com', 'date': '10/02/2012', 'trans': '', 'payment': 'Paypal'}
+11-02-2012 17:42: register {}
+11-02-2012 17:43: insert {'name': 'MICHELA SECHI ', 'number': '1', 'email': 'michelasechi@hotmail.com', 'date': '11/02/2012', 'trans': '', 'payment': 'Paypal'}
+11-02-2012 17:43: showlist {'unsent': '1'}
+11-02-2012 17:43: showticket {'id': '143'}
+11-02-2012 17:43: email {'id': '143'}
+11-02-2012 17:43: showlist {}
+11-02-2012 17:43: showlist {'unsent': '1'}
+11-02-2012 17:43: showticket {'id': '144'}
+11-02-2012 17:43: email {'id': '144'}
+11-02-2012 17:44: showlist {}
+11-02-2012 17:44: showlist {'unsent': '1'}
+11-02-2012 17:44: showticket {'id': '145'}
+11-02-2012 17:44: email {'id': '145'}
+11-02-2012 17:44: showlist {}
+11-02-2012 17:44: showlist {'unsent': '1'}
+11-02-2012 17:44: showticket {'id': '147'}
+11-02-2012 17:44: email {'id': '147'}
+11-02-2012 17:44: showlist {}
+11-02-2012 17:45: showlist {'unsent': '1'}
+11-02-2012 17:45: showticket {'id': '146'}
+11-02-2012 17:45: email {'id': '146'}
+11-02-2012 17:45: showlist {}
+11-02-2012 17:45: showlist {'unsent': '1'}
+11-02-2012 17:45: showticket {'id': '151'}
+11-02-2012 17:45: email {'id': '151'}
+11-02-2012 17:45: showlist {}
+11-02-2012 17:46: showlist {'unsent': '1'}
+11-02-2012 17:46: showticket {'id': '148'}
+11-02-2012 17:46: email {'id': '148'}
+11-02-2012 17:46: showlist {}
+11-02-2012 17:46: showlist {'unsent': '1'}
+11-02-2012 17:46: showticket {'id': '150'}
+11-02-2012 17:46: email {'id': '150'}
+12-02-2012 09:05: showlist {}
+13-02-2012 13:01: showticket {'id': '2'}
+13-02-2012 13:02: showlist {}
+13-02-2012 13:49: showticket {'id': '2'}
+13-02-2012 13:49: showticket {'id': '2'}
+13-02-2012 13:50: showlist {}
+13-02-2012 13:50: register {}
+13-02-2012 13:51: insert {'name': 'MARIA CRISTINA ROMANO', 'number': '1', 'email': 'MARIACRISTINA.ROMANO@POSTE.IT ', 'date': '10/02/2012', 'trans': '44845439512 ', 'payment': 'Bank transfer'}
+13-02-2012 13:52: register {}
+13-02-2012 13:53: insert {'name': 'JAVIER SILVEIRA ACOSTA ', 'number': '2', 'email': 'SIAC@GMAIL.COM', 'date': '13/02/2012', 'trans': '44846900800', 'payment': 'Bank transfer'}
+13-02-2012 14:09: showlist {'unsent': '1'}
+13-02-2012 14:09: showticket {'id': '152'}
+13-02-2012 14:09: email {'id': '152'}
+13-02-2012 14:09: showticket {'id': '152'}
+13-02-2012 14:09: showlist {'unsent': '1'}
+13-02-2012 14:09: showticket {'id': '153'}
+13-02-2012 14:09: email {'id': '153'}
+13-02-2012 14:09: showticket {'id': '153'}
+13-02-2012 14:09: showlist {'unsent': '1'}
+13-02-2012 14:09: showticket {'id': '154'}
+13-02-2012 14:09: email {'id': '154'}
+13-02-2012 14:10: showticket {'id': '154'}
+13-02-2012 14:10: showlist {'unsent': '1'}
+13-02-2012 17:06: showticket {'id': '2'}
+13-02-2012 17:06: showlist {}
+13-02-2012 17:16: showticket {'id': '2'}
+13-02-2012 17:16: register {}
+13-02-2012 17:16: insert {'name': 'van truong', 'number': '1', 'email': 'roberto.marangoni@gmail.com', 'date': '', 'trans': '', 'payment': 'Bank transfer'}
+13-02-2012 17:16: register {}
+13-02-2012 17:17: insert {'name': 'Betania du Brazil', 'number': '1', 'email': 'roberto.marangoni@gmail.com', 'date': '', 'trans': '', 'payment': 'Bank transfer'}
+13-02-2012 17:17: register {}
+13-02-2012 17:18: insert {'name': 'Svetlana von Truong', 'number': '1', 'email': 'roberto.marangoni@gmail.com', 'date': '', 'trans': '', 'payment': 'Bank transfer'}
+13-02-2012 17:19: register {}
+13-02-2012 17:24: insert {'name': 'Daniele Faenza', 'number': '2', 'email': 'masterneo@hotmail.it', 'date': '', 'trans': 'contanti', 'payment': 'Bank transfer'}
+13-02-2012 17:24: showlist {'unsent': '1'}
+13-02-2012 17:24: showticket {'id': '155'}
+13-02-2012 17:25: email {'id': '155'}
+13-02-2012 17:25: showticket {'id': '155'}
+13-02-2012 17:25: showlist {'unsent': '1'}
+13-02-2012 17:25: showticket {'id': '156'}
+13-02-2012 17:25: email {'id': '156'}
+13-02-2012 17:25: showticket {'id': '156'}
+13-02-2012 17:25: showlist {'unsent': '1'}
+13-02-2012 17:25: showticket {'id': '157'}
+13-02-2012 17:25: email {'id': '157'}
+13-02-2012 17:25: showticket {'id': '157'}
+13-02-2012 17:25: showlist {'unsent': '1'}
+13-02-2012 17:25: showticket {'id': '158'}
+13-02-2012 17:25: email {'id': '158'}
+13-02-2012 17:25: showticket {'id': '158'}
+13-02-2012 17:25: showlist {'unsent': '1'}
+13-02-2012 17:25: showticket {'id': '159'}
+13-02-2012 17:25: email {'id': '159'}
+13-02-2012 17:25: showticket {'id': '159'}
+13-02-2012 17:25: showlist {'unsent': '1'}
+13-02-2012 17:25: register {}
+13-02-2012 17:25: showlist {}
+13-02-2012 17:25: showticket {'id': '1'}
+14-02-2012 09:40: showticket {'id': '2'}
+14-02-2012 09:41: showlist {}
+14-02-2012 10:00: showticket {'id': '2'}
+14-02-2012 10:00: showlist {}
+14-02-2012 10:04: showticket {'id': '155'}
+14-02-2012 10:18: showlist {}
+14-02-2012 10:19: showticket {'id': '159'}
+14-02-2012 10:19: showticket {'id': '159'}
+14-02-2012 10:20: showticket {'id': '1'}
+14-02-2012 10:25: register {}
+14-02-2012 10:25: insert {'name': 'Simone Bortolan Gianese', 'number': '1', 'email': 'simone.gianese@gmail.com', 'date': '13/02/2012', 'trans': '', 'payment': 'Paypal'}
+14-02-2012 10:25: register {}
+14-02-2012 10:26: insert {'name': 'Claudio Baroni ', 'number': '2', 'email': 'baronic@gmail.it', 'date': '13/02/2012', 'trans': '', 'payment': 'Paypal'}
+14-02-2012 10:26: register {}
+14-02-2012 10:26: insert {'name': 'Andrea Capra ', 'number': '1', 'email': 'acapra@alteanet.it', 'date': '13/02/2012', 'trans': '', 'payment': 'Paypal'}
+14-02-2012 10:26: register {}
+14-02-2012 10:27: insert {'name': 'Francesca Ronzio ', 'number': '2', 'email': 'fra.ronzio@gmail.com', 'date': '13/02/2012', 'trans': '', 'payment': 'Paypal'}
+14-02-2012 10:27: register {}
+14-02-2012 10:28: insert {'name': 'Alessandro Gravinese ', 'number': '2', 'email': 'alessandro.gravinese@colliersre.it', 'date': '13/02/2012', 'trans': '', 'payment': 'Paypal'}
+14-02-2012 10:28: showlist {'unsent': '1'}
+14-02-2012 10:28: showticket {'id': '160'}
+14-02-2012 10:28: email {'id': '160'}
+14-02-2012 10:28: register {}
+14-02-2012 10:28: showlist {}
+14-02-2012 10:28: showlist {'unsent': '1'}
+14-02-2012 10:28: showticket {'id': '161'}
+14-02-2012 10:28: email {'id': '161'}
+14-02-2012 10:28: showlist {}
+14-02-2012 10:28: showlist {'unsent': '1'}
+14-02-2012 10:28: showticket {'id': '162'}
+14-02-2012 10:28: email {'id': '162'}
+14-02-2012 10:28: showlist {}
+14-02-2012 10:28: showlist {'unsent': '1'}
+14-02-2012 10:28: showticket {'id': '163'}
+14-02-2012 10:28: email {'id': '163'}
+14-02-2012 10:28: showlist {}
+14-02-2012 10:28: showlist {'unsent': '1'}
+14-02-2012 10:28: showticket {'id': '164'}
+14-02-2012 10:28: email {'id': '164'}
+14-02-2012 10:28: showlist {}
+14-02-2012 10:28: showlist {'unsent': '1'}
+14-02-2012 10:28: showticket {'id': '166'}
+14-02-2012 10:28: email {'id': '166'}
+14-02-2012 10:28: showlist {}
+14-02-2012 10:28: showlist {'unsent': '1'}
+14-02-2012 10:28: showticket {'id': '165'}
+14-02-2012 10:28: email {'id': '165'}
+14-02-2012 10:28: showlist {}
+14-02-2012 10:28: showlist {'unsent': '1'}
+14-02-2012 10:29: showticket {'id': '167'}
+14-02-2012 10:29: email {'id': '167'}
+14-02-2012 10:29: showlist {}
+14-02-2012 10:29: showticket {'id': '167'}
+14-02-2012 10:29: showlist {}
+14-02-2012 10:30: showticket {'id': '1'}
+14-02-2012 10:30: showticket {'id': '152'}
+14-02-2012 11:21: showticket {'id': '2'}
+14-02-2012 11:21: showlist {}
+14-02-2012 11:21: showticket {'id': '153'}
+14-02-2012 11:21: showpdf {'c': 'TBAeb'}
+14-02-2012 11:21: showlist {}
+14-02-2012 11:22: showticket {'id': '154'}
+14-02-2012 11:22: showpdf {'c': '1DDFk'}
+14-02-2012 11:24: showlist {}
+14-02-2012 11:26: showticket {'id': '2'}
+14-02-2012 11:26: showlist {}
+14-02-2012 11:50: showticket {'id': '2'}
+14-02-2012 11:51: register {}
+14-02-2012 11:51: insert {'name': 'rafaele bondaz', 'number': '1', 'email': 'Rafaelelyoncity@yahoo.fr', 'date': '14/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+14-02-2012 11:51: showlist {'unsent': '1'}
+14-02-2012 11:51: showticket {'id': '168'}
+14-02-2012 11:51: email {'id': '168'}
+14-02-2012 12:02: showticket {'id': '2'}
+14-02-2012 12:02: showlist {}
+14-02-2012 14:58: showticket {'id': '2'}
+14-02-2012 14:58: showlist {}
+14-02-2012 15:00: register {}
+14-02-2012 15:01: insert {'name': 'marco gloder', 'number': '10', 'email': 'spiderman7791@hotmail.com', 'date': '14/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+14-02-2012 15:01: register {}
+14-02-2012 15:01: insert {'name': 'marco gloder', 'number': '10', 'email': 'spiderman7791@hotmail.com', 'date': '14/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+14-02-2012 15:01: register {}
+14-02-2012 15:01: insert {'name': 'marco gloder', 'number': '1', 'email': 'spiderman7791@hotmail.com', 'date': '14/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+14-02-2012 15:02: showticket {'id': '169'}
+14-02-2012 15:02: email {'id': '169'}
+14-02-2012 15:02: showticket {'id': '169'}
+14-02-2012 15:02: default {}
+14-02-2012 15:02: showlist {}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '170'}
+14-02-2012 15:02: email {'id': '170'}
+14-02-2012 15:02: showticket {'id': '170'}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '171'}
+14-02-2012 15:02: email {'id': '171'}
+14-02-2012 15:02: showticket {'id': '171'}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '172'}
+14-02-2012 15:02: email {'id': '172'}
+14-02-2012 15:02: showticket {'id': '172'}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '173'}
+14-02-2012 15:02: email {'id': '173'}
+14-02-2012 15:02: showticket {'id': '173'}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '174'}
+14-02-2012 15:02: email {'id': '174'}
+14-02-2012 15:02: showticket {'id': '174'}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '175'}
+14-02-2012 15:02: email {'id': '175'}
+14-02-2012 15:02: showticket {'id': '175'}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '176'}
+14-02-2012 15:02: email {'id': '176'}
+14-02-2012 15:02: showticket {'id': '176'}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '177'}
+14-02-2012 15:02: email {'id': '177'}
+14-02-2012 15:02: showticket {'id': '177'}
+14-02-2012 15:02: showlist {'unsent': '1'}
+14-02-2012 15:02: showticket {'id': '178'}
+14-02-2012 15:02: email {'id': '178'}
+14-02-2012 15:03: showticket {'id': '178'}
+14-02-2012 15:03: showlist {'unsent': '1'}
+14-02-2012 15:03: showticket {'id': '179'}
+14-02-2012 15:03: email {'id': '179'}
+14-02-2012 15:03: showticket {'id': '179'}
+14-02-2012 15:03: showlist {'unsent': '1'}
+14-02-2012 15:03: showticket {'id': '180'}
+14-02-2012 15:03: email {'id': '180'}
+14-02-2012 15:03: showticket {'id': '180'}
+14-02-2012 15:03: showlist {'unsent': '1'}
+14-02-2012 15:03: showticket {'id': '184'}
+14-02-2012 15:03: email {'id': '184'}
+14-02-2012 15:03: showlist {'unsent': '1'}
+14-02-2012 15:03: showticket {'id': '181'}
+14-02-2012 15:03: email {'id': '181'}
+14-02-2012 15:03: showticket {'id': '181'}
+14-02-2012 15:03: showlist {'unsent': '1'}
+14-02-2012 15:03: showticket {'id': '183'}
+14-02-2012 15:03: email {'id': '183'}
+14-02-2012 15:03: showticket {'id': '183'}
+14-02-2012 15:03: showlist {'unsent': '1'}
+14-02-2012 15:03: showticket {'id': '182'}
+14-02-2012 15:03: showlist {'unsent': '1'}
+14-02-2012 15:03: showlist {}
+14-02-2012 15:03: showticket {'id': '1'}
+14-02-2012 15:03: showlist {}
+14-02-2012 15:03: showlist {'unsent': '1'}
+14-02-2012 15:03: showticket {'id': '182'}
+14-02-2012 15:03: email {'id': '182'}
+14-02-2012 15:04: showticket {'id': '182'}
+14-02-2012 15:04: showlist {'unsent': '1'}
+14-02-2012 15:04: showticket {'id': '185'}
+14-02-2012 15:04: email {'id': '185'}
+14-02-2012 15:04: showticket {'id': '185'}
+14-02-2012 15:04: showlist {'unsent': '1'}
+14-02-2012 15:04: showticket {'id': '186'}
+14-02-2012 15:04: email {'id': '186'}
+14-02-2012 15:04: showticket {'id': '186'}
+14-02-2012 15:04: showlist {'unsent': '1'}
+14-02-2012 15:04: showticket {'id': '187'}
+14-02-2012 15:04: email {'id': '187'}
+14-02-2012 15:04: showticket {'id': '187'}
+14-02-2012 15:04: showlist {'unsent': '1'}
+14-02-2012 15:04: showticket {'id': '188'}
+14-02-2012 15:04: email {'id': '188'}
+14-02-2012 15:04: showticket {'id': '188'}
+14-02-2012 15:04: showlist {'unsent': '1'}
+14-02-2012 15:04: showticket {'id': '189'}
+14-02-2012 15:04: email {'id': '189'}
+14-02-2012 15:04: showticket {'id': '189'}
+14-02-2012 15:04: showlist {'unsent': '1'}
+14-02-2012 15:25: showticket {'id': '2'}
+14-02-2012 15:26: register {}
+14-02-2012 15:27: insert {'name': 'EUGENIJA MARKSAITE ', 'number': '1', 'email': 'E.MARKSAITE@GMAIL.COM', 'date': '14/02/2012', 'trans': '000000000690260 ', 'payment': 'Bank transfer'}
+14-02-2012 15:27: showlist {'unsent': '1'}
+14-02-2012 15:27: showticket {'id': '190'}
+14-02-2012 15:27: email {'id': '190'}
+14-02-2012 15:50: showlist {}
+14-02-2012 18:04: showticket {'id': '2'}
+14-02-2012 18:04: showlist {}
+15-02-2012 09:47: showticket {'id': '2'}
+15-02-2012 09:47: register {}
+15-02-2012 09:48: insert {'name': 'Elena Martynova', 'number': '1', 'email': 'elemartynova@gmail.com', 'date': '15/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+15-02-2012 09:48: showlist {'unsent': '1'}
+15-02-2012 09:48: showticket {'id': '191'}
+15-02-2012 09:48: email {'id': '191'}
+15-02-2012 09:50: register {}
+15-02-2012 09:50: insert {'name': 'Riccardo Ueuo Pogliani', 'number': '3', 'email': 'uueuo@hotmail.com', 'date': '15/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+15-02-2012 09:50: showlist {'unsent': '1'}
+15-02-2012 09:50: showticket {'id': '192'}
+15-02-2012 09:50: email {'id': '192'}
+15-02-2012 09:50: showticket {'id': '192'}
+15-02-2012 09:50: showlist {'unsent': '1'}
+15-02-2012 09:50: showticket {'id': '193'}
+15-02-2012 09:50: email {'id': '193'}
+15-02-2012 09:50: showticket {'id': '193'}
+15-02-2012 09:50: showlist {'unsent': '1'}
+15-02-2012 09:50: showticket {'id': '194'}
+15-02-2012 09:50: email {'id': '194'}
+15-02-2012 09:50: showticket {'id': '194'}
+15-02-2012 09:51: showlist {'unsent': '1'}
+15-02-2012 09:59: showticket {'id': '2'}
+15-02-2012 09:59: showlist {}
+15-02-2012 09:59: showticket {'id': '156'}
+15-02-2012 10:01: showlist {}
+15-02-2012 10:08: showlist {'unsent': '1'}
+15-02-2012 10:09: showticket {'id': '190'}
+15-02-2012 10:13: showlist {}
+15-02-2012 11:32: showlist {}
+15-02-2012 11:32: register {}
+15-02-2012 11:33: register {}
+15-02-2012 11:34: insert {'name': 'cedric magnien', 'number': '1', 'email': 'cedricmagnien@yahoo.com', 'date': '14/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 11:34: register {}
+15-02-2012 11:34: insert {'name': 'Giovanni Sannino ', 'number': '3', 'email': 'giov.sannino@gmail.com', 'date': '14/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 11:35: register {}
+15-02-2012 11:35: insert {'name': 'Daniela Dierna ', 'number': '2', 'email': 'danilu84@hotmail.it', 'date': '14/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+15-02-2012 11:35: register {}
+15-02-2012 11:36: insert {'name': 'Giulio Pizzuto', 'number': '1', 'email': 'giulio.pizzuto@gmail.com', 'date': '14/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 11:36: register {}
+15-02-2012 11:39: insert {'name': 'ANTONIO CIUFFREDA', 'number': '6', 'email': 'ANTCIUF@YAHOO.IT', 'date': '14/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 11:39: register {}
+15-02-2012 11:40: insert {'name': 'Andrea Schwarz ', 'number': '2', 'email': 'aschwarz@edu.uni-klu.ac.at', 'date': '14/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 11:40: register {}
+15-02-2012 11:41: insert {'name': 'maria zacco ', 'number': '1', 'email': 'mari.z81@hotmail.it', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 11:41: register {}
+15-02-2012 11:41: insert {'name': 'Veru gasparroni ', 'number': '7', 'email': 'buongiornoanoi@gmail.com', 'date': '15/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+15-02-2012 11:45: showticket {'id': '1'}
+15-02-2012 12:07: default {}
+15-02-2012 12:07: showlist {}
+15-02-2012 12:07: showlist {'unsent': '1'}
+15-02-2012 12:07: showticket {'id': '195'}
+15-02-2012 12:07: email {'id': '195'}
+15-02-2012 12:07: showlist {}
+15-02-2012 12:07: showlist {'unsent': '1'}
+15-02-2012 12:07: showticket {'id': '196'}
+15-02-2012 12:07: email {'id': '196'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showticket {'id': '1'}
+15-02-2012 12:08: email {'id': '1'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '197'}
+15-02-2012 12:08: email {'id': '197'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '198'}
+15-02-2012 12:08: email {'id': '198'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '199'}
+15-02-2012 12:08: email {'id': '199'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '200'}
+15-02-2012 12:08: email {'id': '200'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '201'}
+15-02-2012 12:08: email {'id': '201'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '202'}
+15-02-2012 12:08: email {'id': '202'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '203'}
+15-02-2012 12:08: email {'id': '203'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '204'}
+15-02-2012 12:08: email {'id': '204'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:08: showticket {'id': '205'}
+15-02-2012 12:08: email {'id': '205'}
+15-02-2012 12:08: showlist {}
+15-02-2012 12:08: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '206'}
+15-02-2012 12:09: email {'id': '206'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '207'}
+15-02-2012 12:09: email {'id': '207'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '208'}
+15-02-2012 12:09: email {'id': '208'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '209'}
+15-02-2012 12:09: email {'id': '209'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '210'}
+15-02-2012 12:09: email {'id': '210'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '211'}
+15-02-2012 12:09: email {'id': '211'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '212'}
+15-02-2012 12:09: email {'id': '212'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '213'}
+15-02-2012 12:09: email {'id': '213'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '214'}
+15-02-2012 12:09: email {'id': '214'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '215'}
+15-02-2012 12:09: email {'id': '215'}
+15-02-2012 12:09: showlist {}
+15-02-2012 12:09: showlist {'unsent': '1'}
+15-02-2012 12:09: showticket {'id': '216'}
+15-02-2012 12:10: email {'id': '216'}
+15-02-2012 12:10: showlist {}
+15-02-2012 12:10: showlist {'unsent': '1'}
+15-02-2012 12:10: showticket {'id': '217'}
+15-02-2012 12:10: email {'id': '217'}
+15-02-2012 12:10: showlist {}
+15-02-2012 12:10: default {}
+15-02-2012 12:21: showlist {}
+15-02-2012 12:21: showlist {'unsent': '1'}
+15-02-2012 13:47: showticket {'id': '2'}
+15-02-2012 13:47: showlist {}
+15-02-2012 13:55: register {}
+15-02-2012 13:56: insert {'name': 'BINA PARRILLA', 'number': '5', 'email': 'BINAPARRILLA@HOTMAIL.COM', 'date': '13/02/2012', 'trans': '000000003215300 ', 'payment': 'Bank transfer'}
+15-02-2012 13:56: showticket {'id': '218'}
+15-02-2012 13:56: email {'id': '218'}
+15-02-2012 13:56: showticket {'id': '218'}
+15-02-2012 13:57: email {'id': '218'}
+15-02-2012 13:57: showticket {'id': '218'}
+15-02-2012 13:57: default {}
+15-02-2012 13:57: showlist {}
+15-02-2012 13:57: showlist {'unsent': '1'}
+15-02-2012 13:57: showticket {'id': '218'}
+15-02-2012 13:57: email {'id': '218'}
+15-02-2012 13:57: showlist {}
+15-02-2012 13:57: showlist {'unsent': '1'}
+15-02-2012 13:57: showticket {'id': '222'}
+15-02-2012 13:57: email {'id': '222'}
+15-02-2012 13:57: showticket {'id': '222'}
+15-02-2012 13:57: showlist {'unsent': '1'}
+15-02-2012 13:57: showlist {}
+15-02-2012 13:58: showticket {'id': '222'}
+15-02-2012 13:58: email {'id': '222'}
+15-02-2012 13:58: showticket {'id': '2'}
+15-02-2012 13:58: showlist {}
+15-02-2012 13:59: showlist {'unsent': '1'}
+15-02-2012 13:59: showticket {'id': '218'}
+15-02-2012 13:59: email {'id': '218'}
+15-02-2012 14:11: showticket {'id': '2'}
+15-02-2012 14:11: register {}
+15-02-2012 14:13: insert {'name': 'giuseppina barrotta', 'number': '4', 'email': 'giulio.biscaro@gmail.com ', 'date': '13/02/2012', 'trans': '40418122304 ', 'payment': 'Bank transfer'}
+15-02-2012 14:13: showlist {'unsent': '1'}
+15-02-2012 14:13: showticket {'id': '223'}
+15-02-2012 14:13: email {'id': '223'}
+15-02-2012 14:13: showlist {}
+15-02-2012 14:14: showlist {'unsent': '1'}
+15-02-2012 14:14: register {}
+15-02-2012 14:15: insert {'name': 'NELLO GARCIA GRIMALDI', 'number': '1', 'email': 'ANIELLOGRIMALDI@GMAIL.COM', 'date': '', 'trans': '000000000691222', 'payment': 'Bank transfer'}
+15-02-2012 14:15: showlist {'unsent': '1'}
+15-02-2012 14:15: showticket {'id': '227'}
+15-02-2012 14:15: email {'id': '227'}
+15-02-2012 14:18: showticket {'id': '2'}
+15-02-2012 14:18: showlist {}
+15-02-2012 14:19: showlist {'unsent': '1'}
+15-02-2012 14:51: showticket {'id': '2'}
+15-02-2012 14:53: showlist {}
+15-02-2012 14:53: showlist {'unsent': '1'}
+15-02-2012 14:53: showticket {'id': '218'}
+15-02-2012 14:53: email {'id': '218'}
+15-02-2012 14:59: showlist {}
+15-02-2012 15:18: showticket {'id': '2'}
+15-02-2012 15:18: showlist {}
+15-02-2012 15:18: showlist {'unsent': '1'}
+15-02-2012 15:47: showlist {}
+15-02-2012 15:54: default {}
+15-02-2012 15:54: showlist {}
+15-02-2012 15:54: showlist {'unsent': '1'}
+15-02-2012 15:55: showlist {}
+15-02-2012 15:55: showticket {'id': '217'}
+15-02-2012 15:55: showlist {}
+15-02-2012 15:55: showticket {'id': '218'}
+15-02-2012 15:55: email {'id': '218'}
+15-02-2012 15:55: showlist {}
+15-02-2012 15:55: showlist {'unsent': '1'}
+15-02-2012 15:55: showticket {'id': '219'}
+15-02-2012 15:55: email {'id': '219'}
+15-02-2012 15:55: showlist {}
+15-02-2012 15:55: showlist {'unsent': '1'}
+15-02-2012 15:55: showticket {'id': '220'}
+15-02-2012 15:55: email {'id': '220'}
+15-02-2012 15:55: showlist {}
+15-02-2012 15:55: showlist {'unsent': '1'}
+15-02-2012 15:55: showticket {'id': '221'}
+15-02-2012 15:55: email {'id': '221'}
+15-02-2012 15:55: showlist {}
+15-02-2012 15:55: showlist {'unsent': '1'}
+15-02-2012 15:55: showticket {'id': '222'}
+15-02-2012 15:55: email {'id': '222'}
+15-02-2012 15:55: showlist {}
+15-02-2012 15:56: showlist {'unsent': '1'}
+15-02-2012 15:56: showticket {'id': '223'}
+15-02-2012 15:56: email {'id': '223'}
+15-02-2012 15:56: showlist {}
+15-02-2012 15:56: showlist {'unsent': '1'}
+15-02-2012 15:56: showticket {'id': '224'}
+15-02-2012 15:56: email {'id': '224'}
+15-02-2012 15:56: showlist {}
+15-02-2012 15:56: showlist {'unsent': '1'}
+15-02-2012 15:56: showticket {'id': '225'}
+15-02-2012 15:56: email {'id': '225'}
+15-02-2012 15:56: showlist {}
+15-02-2012 15:56: showlist {'unsent': '1'}
+15-02-2012 15:56: showticket {'id': '226'}
+15-02-2012 15:56: email {'id': '226'}
+15-02-2012 15:56: showlist {}
+15-02-2012 15:56: showlist {'unsent': '1'}
+15-02-2012 15:56: showticket {'id': '227'}
+15-02-2012 15:56: email {'id': '227'}
+15-02-2012 15:56: showlist {}
+15-02-2012 16:14: showlist {'unsent': '1'}
+15-02-2012 16:14: showlist {}
+15-02-2012 16:14: showticket {'id': '227'}
+15-02-2012 16:14: showpdf {'c': 'yJMHG'}
+15-02-2012 16:14: default {}
+15-02-2012 17:16: showticket {'id': '2'}
+15-02-2012 17:17: showlist {}
+15-02-2012 17:17: showlist {'unsent': '1'}
+15-02-2012 17:17: showlist {}
+15-02-2012 17:18: showlist {}
+15-02-2012 17:18: showlist {'unsent': '1'}
+15-02-2012 17:18: showticket {'id': '97'}
+15-02-2012 17:18: showpdf {'c': 'ApVJR'}
+15-02-2012 17:18: showticket {'id': '98'}
+15-02-2012 17:18: showpdf {'c': '2Jni2'}
+15-02-2012 17:19: showticket {'id': '99'}
+15-02-2012 17:19: email {'id': '99'}
+15-02-2012 17:19: showticket {'id': '99'}
+15-02-2012 17:19: showpdf {'c': 'r3UP5'}
+15-02-2012 17:20: showticket {'id': '227'}
+15-02-2012 17:20: showticket {'id': '213'}
+15-02-2012 17:20: showticket {'id': '211'}
+15-02-2012 17:20: showticket {'id': '207'}
+15-02-2012 17:28: showticket {'id': '222'}
+15-02-2012 17:54: showticket {'id': '2'}
+15-02-2012 17:54: showlist {}
+15-02-2012 17:54: showticket {'id': '223'}
+15-02-2012 17:54: email {'id': '223'}
+15-02-2012 17:54: showticket {'id': '223'}
+15-02-2012 17:55: showpdf {'c': 'xZhhi'}
+15-02-2012 17:56: showlist {}
+15-02-2012 17:56: showticket {'id': '218'}
+15-02-2012 17:57: showlist {}
+15-02-2012 17:57: showticket {'id': '223'}
+15-02-2012 17:57: showlist {}
+15-02-2012 17:57: showlist {'unsent': '1'}
+15-02-2012 18:49: showlist {}
+15-02-2012 18:49: default {}
+15-02-2012 19:31: showlist {}
+15-02-2012 19:32: register {}
+15-02-2012 19:32: insert {'name': 'Giuseppe Gargaro ', 'number': '1', 'email': 'gargaro_simona@yahoo.it', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 19:33: register {}
+15-02-2012 19:33: insert {'name': 'Marco Raia ', 'number': '1', 'email': 'raia5@libero.it', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 19:33: register {}
+15-02-2012 19:34: insert {'name': 'XIAOHAN LI ', 'number': '1', 'email': 'XH.EIRENE@GMAIL.COM', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 19:34: register {}
+15-02-2012 19:35: insert {'name': 'Cecilia Kovacs ', 'number': '2', 'email': 'kcili11@gmail.com', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 19:35: register {}
+15-02-2012 19:36: insert {'name': 'Giuseppe Mantarro ', 'number': '1', 'email': 'giuseppe.mantarro@infinito.it', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 19:36: register {}
+15-02-2012 19:37: insert {'name': 'EVANGELIA HATZIPEGIOU ', 'number': '2', 'email': 'evita.hat@gmail.com', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+15-02-2012 19:39: showticket {'id': '1'}
+15-02-2012 19:44: showticket {'id': '231'}
+15-02-2012 19:45: showticket {'id': '217'}
+16-02-2012 08:54: showticket {'id': '2'}
+16-02-2012 08:55: showlist {}
+16-02-2012 08:55: showlist {'unsent': '1'}
+16-02-2012 09:08: showticket {'id': '2'}
+16-02-2012 09:08: register {}
+16-02-2012 09:09: insert {'name': 'Micha\xc3\xabl LOISON', 'number': '1', 'email': 'loison.michael@gmail.com', 'date': '15/02/2012', 'trans': '000000000691291 ', 'payment': 'Bank transfer'}
+16-02-2012 09:11: showticket {'id': '236'}
+16-02-2012 09:11: email {'id': '236'}
+16-02-2012 09:52: showlist {}
+16-02-2012 10:40: default {}
+16-02-2012 10:40: showlist {}
+16-02-2012 10:40: showlist {'unsent': '1'}
+16-02-2012 10:40: showticket {'id': '228'}
+16-02-2012 10:40: email {'id': '228'}
+16-02-2012 10:40: showlist {}
+16-02-2012 10:41: showlist {'unsent': '1'}
+16-02-2012 10:42: settings {}
+16-02-2012 10:43: showlist {}
+16-02-2012 10:43: showlist {'unsent': '1'}
+16-02-2012 10:43: showticket {'id': '228'}
+16-02-2012 10:43: email {'id': '228'}
+16-02-2012 10:44: showticket {'id': '2'}
+16-02-2012 10:44: showlist {}
+16-02-2012 12:34: showlist {}
+16-02-2012 12:34: showticket {'id': '104'}
+16-02-2012 12:34: showpdf {'c': 'VcHwk'}
+16-02-2012 12:34: showticket {'id': '105'}
+16-02-2012 12:35: showpdf {'c': 'J1z7q'}
+16-02-2012 12:36: showticket {'id': '106'}
+16-02-2012 12:36: showpdf {'c': 'GrTCt'}
+16-02-2012 12:45: default {}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '228'}
+16-02-2012 12:46: email {'id': '228'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '229'}
+16-02-2012 12:46: email {'id': '229'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '230'}
+16-02-2012 12:46: email {'id': '230'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '231'}
+16-02-2012 12:46: email {'id': '231'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '232'}
+16-02-2012 12:46: email {'id': '232'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '233'}
+16-02-2012 12:46: email {'id': '233'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '234'}
+16-02-2012 12:46: email {'id': '234'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '235'}
+16-02-2012 12:46: email {'id': '235'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showlist {'unsent': '1'}
+16-02-2012 12:46: showticket {'id': '236'}
+16-02-2012 12:46: email {'id': '236'}
+16-02-2012 12:46: showlist {}
+16-02-2012 12:46: showticket {'id': '235'}
+16-02-2012 12:46: showticket {'id': '234'}
+16-02-2012 12:47: default {}
+16-02-2012 15:24: showticket {'id': '2'}
+16-02-2012 15:24: showlist {}
+16-02-2012 15:26: register {}
+16-02-2012 15:27: insert {'name': 'DAVIDE LUISE ', 'number': '2', 'email': 'DVD0288@GMAIL.COM', 'date': '16/02/12', 'trans': '', 'payment': 'Bank transfer'}
+16-02-2012 15:27: register {}
+16-02-2012 15:27: insert {'name': 'TOMMASO.MANDORINo', 'number': '1', 'email': 'TOMMASO.MANDORINO@TISCALI.IT ', 'date': '16/02/12', 'trans': '', 'payment': 'Bank transfer'}
+16-02-2012 15:28: register {}
+16-02-2012 15:29: insert {'name': 'simone costa', 'number': '1', 'email': 'simocorbe@libero.it', 'date': '16/02/12', 'trans': '000000000691599 ', 'payment': 'Bank transfer'}
+16-02-2012 15:31: register {}
+16-02-2012 15:31: insert {'name': 'Centofanti Paolo', 'number': '2', 'email': 'roberto.marangoni@gmail.com', 'date': '16/02/12', 'trans': '000000000691316 ', 'payment': 'Bank transfer'}
+16-02-2012 15:31: showticket {'id': '240'}
+16-02-2012 15:32: default {}
+16-02-2012 15:32: showlist {}
+16-02-2012 15:32: showticket {'id': '241'}
+16-02-2012 15:32: showticket {'id': '2'}
+16-02-2012 15:32: showlist {}
+16-02-2012 15:32: showlist {'unsent': '1'}
+16-02-2012 15:32: showticket {'id': '242'}
+16-02-2012 15:32: email {'id': '242'}
+16-02-2012 15:32: showticket {'id': '242'}
+16-02-2012 15:32: showlist {'unsent': '1'}
+16-02-2012 15:32: showticket {'id': '241'}
+16-02-2012 15:32: email {'id': '241'}
+16-02-2012 15:32: showticket {'id': '241'}
+16-02-2012 15:32: showlist {'unsent': '1'}
+16-02-2012 15:32: showticket {'id': '240'}
+16-02-2012 15:32: email {'id': '240'}
+16-02-2012 15:32: showticket {'id': '240'}
+16-02-2012 15:32: showlist {'unsent': '1'}
+16-02-2012 15:32: showticket {'id': '239'}
+16-02-2012 15:33: email {'id': '239'}
+16-02-2012 15:33: showticket {'id': '239'}
+16-02-2012 15:33: showlist {'unsent': '1'}
+16-02-2012 15:33: showticket {'id': '238'}
+16-02-2012 15:33: email {'id': '238'}
+16-02-2012 15:33: showticket {'id': '238'}
+16-02-2012 15:33: showlist {'unsent': '1'}
+16-02-2012 15:33: showticket {'id': '237'}
+16-02-2012 15:33: email {'id': '237'}
+16-02-2012 15:33: showticket {'id': '237'}
+16-02-2012 15:33: showlist {'unsent': '1'}
+16-02-2012 15:33: showlist {}
+16-02-2012 15:33: showlist {'unsent': '1'}
+16-02-2012 21:22: showlist {}
+17-02-2012 09:16: showticket {'id': '2'}
+17-02-2012 09:16: showlist {}
+17-02-2012 09:16: showlist {'unsent': '1'}
+17-02-2012 10:02: showticket {'id': '2'}
+17-02-2012 10:02: register {}
+17-02-2012 10:02: insert {'name': 'luca patrizio', 'number': '1', 'email': 'lucapatrizio@gmail.com', 'date': '', 'trans': '', 'payment': 'Bank transfer'}
+17-02-2012 10:13: register {}
+17-02-2012 10:14: insert {'name': 'alessandro cardone', 'number': '2', 'email': 'alessandro.cardone@gmail.com', 'date': '15/02/2012', 'trans': '14524689110 ', 'payment': 'Bank transfer'}
+17-02-2012 10:14: showticket {'id': '243'}
+17-02-2012 10:14: email {'id': '243'}
+17-02-2012 10:14: showticket {'id': '243'}
+17-02-2012 10:14: default {}
+17-02-2012 10:14: showlist {}
+17-02-2012 10:14: showlist {'unsent': '1'}
+17-02-2012 10:14: showticket {'id': '244'}
+17-02-2012 10:14: email {'id': '244'}
+17-02-2012 10:14: showticket {'id': '244'}
+17-02-2012 10:14: showlist {'unsent': '1'}
+17-02-2012 10:14: showticket {'id': '245'}
+17-02-2012 10:15: email {'id': '245'}
+17-02-2012 10:15: showticket {'id': '245'}
+17-02-2012 10:15: showlist {'unsent': '1'}
+17-02-2012 10:18: showlist {}
+17-02-2012 10:19: register {}
+17-02-2012 10:21: insert {'name': 'Valerio Maggipinto', 'number': '1', 'email': 'valeriomaggipinto@libero.it', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:21: register {}
+17-02-2012 10:22: insert {'name': 'sandra acquavia', 'number': '2', 'email': 'sasy_a@tiscali.it', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:22: register {}
+17-02-2012 10:22: insert {'name': 'MIRKO ZANNONI ', 'number': '1', 'email': 'mirkone.minto@yahoo.it', 'date': '15/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:23: register {}
+17-02-2012 10:23: insert {'name': 'Andrea Praderio', 'number': '1', 'email': 'andrea.praderio@gmail.com', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:23: register {}
+17-02-2012 10:24: insert {'name': 'Andrea Bassi ', 'number': '5', 'email': 'andrea73b@gmail.com', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:25: register {}
+17-02-2012 10:25: insert {'name': 'Tatiana Tassini ', 'number': '1', 'email': 'tassinitatiana@hotmail.com', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:25: register {}
+17-02-2012 10:25: insert {'name': 'STEFANIA RONZIO', 'number': '1', 'email': 'stefania.ronzio@gmail.com', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:26: register {}
+17-02-2012 10:26: insert {'name': 'Anna Locika ', 'number': '2', 'email': 'annalocika@gmail.com', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:26: register {}
+17-02-2012 10:27: insert {'name': 'Stefano Cuch ', 'number': '1', 'email': 'capitancuch@libero.it', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:27: register {}
+17-02-2012 10:27: insert {'name': 'Giulio Dalia ', 'number': '3', 'email': 'giulio.dalia@email.it', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:27: register {}
+17-02-2012 10:28: insert {'name': 'Etienne Fleury', 'number': '1', 'email': 'etienne.fleury@gmail.com', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:29: register {}
+17-02-2012 10:30: insert {'name': 'Jacco Top ', 'number': '2', 'email': 'jacco.top@gmail.com', 'date': '16/02/2012', 'trans': '', 'payment': 'Paypal'}
+17-02-2012 10:30: showlist {'unsent': '1'}
+17-02-2012 10:30: showticket {'id': '246'}
+17-02-2012 10:30: email {'id': '246'}
+17-02-2012 10:30: showlist {'unsent': '1'}
+17-02-2012 10:30: showticket {'id': '247'}
+17-02-2012 10:30: email {'id': '247'}
+17-02-2012 10:30: showlist {'unsent': '1'}
+17-02-2012 10:30: showticket {'id': '248'}
+17-02-2012 10:30: email {'id': '248'}
+17-02-2012 10:30: showlist {'unsent': '1'}
+17-02-2012 10:30: showticket {'id': '249'}
+17-02-2012 10:30: email {'id': '249'}
+17-02-2012 10:30: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '250'}
+17-02-2012 10:31: email {'id': '250'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '251'}
+17-02-2012 10:31: email {'id': '251'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '252'}
+17-02-2012 10:31: email {'id': '252'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '254'}
+17-02-2012 10:31: email {'id': '254'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '253'}
+17-02-2012 10:31: email {'id': '253'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '257'}
+17-02-2012 10:31: email {'id': '257'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '258'}
+17-02-2012 10:31: email {'id': '258'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '260'}
+17-02-2012 10:31: email {'id': '260'}
+17-02-2012 10:31: showticket {'id': '1'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '255'}
+17-02-2012 10:31: email {'id': '255'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '256'}
+17-02-2012 10:31: email {'id': '256'}
+17-02-2012 10:31: showlist {'unsent': '1'}
+17-02-2012 10:31: showticket {'id': '259'}
+17-02-2012 10:32: email {'id': '259'}
+17-02-2012 10:32: showlist {'unsent': '1'}
+17-02-2012 10:32: showticket {'id': '261'}
+17-02-2012 10:32: email {'id': '261'}
+17-02-2012 10:32: showlist {'unsent': '1'}
+17-02-2012 10:32: showticket {'id': '262'}
+17-02-2012 10:32: email {'id': '262'}
+17-02-2012 10:32: showlist {'unsent': '1'}
+17-02-2012 10:32: showticket {'id': '266'}
+17-02-2012 10:32: email {'id': '266'}
+17-02-2012 10:32: showlist {'unsent': '1'}
+17-02-2012 10:32: showticket {'id': '264'}
+17-02-2012 10:32: email {'id': '264'}
+17-02-2012 10:32: showlist {'unsent': '1'}
+17-02-2012 10:32: showticket {'id': '265'}
+17-02-2012 10:32: email {'id': '265'}
+17-02-2012 10:32: showlist {'unsent': '1'}
+17-02-2012 10:32: showticket {'id': '263'}
+17-02-2012 10:32: email {'id': '263'}
+17-02-2012 10:32: showlist {}
+17-02-2012 10:33: showticket {'id': '1'}
+17-02-2012 10:35: showticket {'id': '217'}
+17-02-2012 10:36: showticket {'id': '6'}
+17-02-2012 10:42: showlist {}
+17-02-2012 10:43: showticket {'id': '2'}
+17-02-2012 10:43: register {}
+17-02-2012 10:43: insert {'name': 'Daniele Faenza', 'number': '2', 'email': 'masterneo@hotmail.it', 'date': '17/02/12', 'trans': '', 'payment': 'Bank transfer'}
+17-02-2012 10:43: showlist {'unsent': '1'}
+17-02-2012 10:43: showticket {'id': '267'}
+17-02-2012 10:43: email {'id': '267'}
+17-02-2012 10:43: showticket {'id': '267'}
+17-02-2012 10:43: showlist {'unsent': '1'}
+17-02-2012 10:43: default {}
+17-02-2012 10:43: showlist {}
+17-02-2012 10:43: showlist {'unsent': '1'}
+17-02-2012 10:44: showticket {'id': '268'}
+17-02-2012 10:44: email {'id': '268'}
+17-02-2012 10:44: showlist {}
+17-02-2012 11:45: showticket {'id': '2'}
+17-02-2012 11:45: showlist {}
+17-02-2012 14:31: showticket {'id': '2'}
+17-02-2012 14:31: showlist {}
+17-02-2012 14:49: showlist {}
+17-02-2012 16:36: showticket {'id': '2'}
+17-02-2012 16:36: showlist {}
+17-02-2012 16:36: showticket {'id': '26'}
+17-02-2012 16:36: email {'id': '26'}
+17-02-2012 16:36: register {}
+17-02-2012 16:36: showlist {}
+17-02-2012 16:36: showlist {'unsent': '1'}
+17-02-2012 16:39: showticket {'id': '2'}
+17-02-2012 16:39: showlist {}
+17-02-2012 17:14: showticket {'id': '2'}
+17-02-2012 17:15: showlist {}
+17-02-2012 17:15: showlist {}
+17-02-2012 17:15: showlist {'unsent': '1'}
+17-02-2012 21:06: default {}
+17-02-2012 21:07: showlist {}
+17-02-2012 21:07: showticket {'id': '1'}
+17-02-2012 21:07: showlist {}
+17-02-2012 21:35: showticket {'id': '9'}
+17-02-2012 21:37: settings {}
+18-02-2012 03:14: showlist {}
+18-02-2012 15:02: showlist {}
+18-02-2012 15:05: register {}
+18-02-2012 15:06: insert {'name': 'Nunziata Luana Musca ', 'number': '3', 'email': 'luana.musca@gmail.com', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:06: register {}
+18-02-2012 15:07: insert {'name': 'Chiara Salis ', 'number': '4', 'email': 'kya82it@hotmail.com', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:07: register {}
+18-02-2012 15:07: insert {'name': 'Samuele Tesfaghiorghis ', 'number': '1', 'email': 'tesfa@libero.it', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:08: register {}
+18-02-2012 15:08: insert {'name': 'Pierluigi Cammarano ', 'number': '1', 'email': 'pierluigi.cammarano@unicredit.eu', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:08: register {}
+18-02-2012 15:09: insert {'name': 'Domenico Panza ', 'number': '1', 'email': 'mimmopanza@gmail.com', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:09: register {}
+18-02-2012 15:10: insert {'name': 'Neri Luca ', 'number': '1', 'email': 'nero74@yahoo.com', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:10: register {}
+18-02-2012 15:11: insert {'name': 'giandomenico de franco ', 'number': '1', 'email': 'giandomenico.defranco@email.it', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:11: register {}
+18-02-2012 15:12: insert {'name': 'Marketa Zelena ', 'number': '2', 'email': 'marketa_zelena@centrum.cz', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:12: register {}
+18-02-2012 15:12: insert {'name': 'Mara MARCHESANO ', 'number': '1', 'email': 'mara.marchesano@hotmail.it', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:13: register {}
+18-02-2012 15:14: insert {'name': 'andrea gamberini ', 'number': '1', 'email': 'mostazet@yahoo.it', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:14: register {}
+18-02-2012 15:15: insert {'name': 'TIZIANA PEVERELLI ', 'number': '3', 'email': 'tizianapeverelli@hotmail.com', 'date': '17/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:15: register {}
+18-02-2012 15:16: insert {'name': 'lorenzo giocoli ', 'number': '1', 'email': 'putiferio@hotmail.com', 'date': '18/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:16: register {}
+18-02-2012 15:17: insert {'name': 'Valeria Gatti ', 'number': '2', 'email': 'valegtt@gmail.com', 'date': '18/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:17: register {}
+18-02-2012 15:18: insert {'name': 'Andrea Loatelli ', 'number': '1', 'email': 'aloha_1974@hotmail.com', 'date': '18/02/2012', 'trans': '', 'payment': 'Paypal'}
+18-02-2012 15:25: showlist {}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '269'}
+18-02-2012 15:25: email {'id': '269'}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '270'}
+18-02-2012 15:25: email {'id': '270'}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '271'}
+18-02-2012 15:25: email {'id': '271'}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '272'}
+18-02-2012 15:25: email {'id': '272'}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '273'}
+18-02-2012 15:25: email {'id': '273'}
+18-02-2012 15:25: showticket {'id': '273'}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '276'}
+18-02-2012 15:25: email {'id': '276'}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '275'}
+18-02-2012 15:25: email {'id': '275'}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '274'}
+18-02-2012 15:25: email {'id': '274'}
+18-02-2012 15:25: showlist {'unsent': '1'}
+18-02-2012 15:25: showticket {'id': '280'}
+18-02-2012 15:26: email {'id': '280'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showticket {'id': '279'}
+18-02-2012 15:26: email {'id': '279'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showticket {'id': '277'}
+18-02-2012 15:26: email {'id': '277'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showticket {'id': '281'}
+18-02-2012 15:26: email {'id': '281'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showticket {'id': '278'}
+18-02-2012 15:26: email {'id': '278'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showticket {'id': '282'}
+18-02-2012 15:26: email {'id': '282'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showticket {'id': '284'}
+18-02-2012 15:26: email {'id': '284'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showticket {'id': '283'}
+18-02-2012 15:26: email {'id': '283'}
+18-02-2012 15:26: showlist {'unsent': '1'}
+18-02-2012 15:26: showticket {'id': '286'}
+18-02-2012 15:26: email {'id': '286'}
+18-02-2012 15:27: showlist {'unsent': '1'}
+18-02-2012 15:27: showticket {'id': '285'}
+18-02-2012 15:27: email {'id': '285'}
+18-02-2012 15:27: showlist {'unsent': '1'}
+18-02-2012 15:27: showticket {'id': '288'}
+18-02-2012 15:27: email {'id': '288'}
+18-02-2012 15:27: showlist {'unsent': '1'}
+18-02-2012 15:27: showticket {'id': '287'}
+18-02-2012 15:27: email {'id': '287'}
+18-02-2012 15:27: showlist {'unsent': '1'}
+18-02-2012 15:27: showticket {'id': '289'}
+18-02-2012 15:27: email {'id': '289'}
+18-02-2012 15:27: showlist {'unsent': '1'}
+18-02-2012 15:27: showticket {'id': '290'}
+18-02-2012 15:27: email {'id': '290'}
+18-02-2012 15:27: showlist {'unsent': '1'}
+18-02-2012 15:27: showticket {'id': '291'}
+18-02-2012 15:27: email {'id': '291'}
+18-02-2012 15:27: showlist {'unsent': '1'}
+18-02-2012 21:44: showlist {}
+18-02-2012 21:46: showlist {'unsent': '1'}
+18-02-2012 21:47: showticket {'id': '291'}
+18-02-2012 21:49: showticket {'id': '280'}
+18-02-2012 21:51: showlist {'unsent': '1'}
+18-02-2012 21:51: register {}
+18-02-2012 21:51: showlist {'unsent': '1'}
+18-02-2012 21:51: settings {}
+19-02-2012 12:16: showlist {}
+19-02-2012 12:16: showlist {'unsent': '1'}
+19-02-2012 12:16: showticket {'id': '166'}
+19-02-2012 12:16: email {'id': '166'}
+19-02-2012 12:16: showticket {'id': '166'}
+19-02-2012 12:16: showticket {'id': '167'}
+19-02-2012 12:16: email {'id': '167'}
+19-02-2012 12:16: showticket {'id': '167'}
+19-02-2012 12:16: showticket {'id': '166'}
+19-02-2012 12:17: showticket {'id': '39'}
+19-02-2012 12:17: email {'id': '39'}
+19-02-2012 12:17: showticket {'id': '39'}
+19-02-2012 12:17: showticket {'id': '288'}
+19-02-2012 12:17: email {'id': '288'}
+19-02-2012 12:17: showticket {'id': '288'}
+19-02-2012 12:21: register {}
+19-02-2012 12:22: insert {'name': 'DONATO MASSIMO', 'number': '2', 'email': 'DIDINHO@GMAIL.COM', 'date': '17/02/12', 'trans': '000000000691918 ', 'payment': 'Bank transfer'}
+19-02-2012 12:22: register {}
+19-02-2012 12:23: insert {'name': 'Thomas Dusch', 'number': '1', 'email': 'ThomasD1@gmx.net', 'date': '17/02/12', 'trans': '000000000692054 ', 'payment': 'Bank transfer'}
+19-02-2012 12:23: showlist {'unsent': '1'}
+19-02-2012 12:23: showticket {'id': '292'}
+19-02-2012 12:23: email {'id': '292'}
+19-02-2012 12:23: showticket {'id': '292'}
+19-02-2012 12:23: showlist {'unsent': '1'}
+19-02-2012 12:23: showticket {'id': '293'}
+19-02-2012 12:23: email {'id': '293'}
+19-02-2012 12:23: showticket {'id': '293'}
+19-02-2012 12:23: showlist {'unsent': '1'}
+19-02-2012 12:23: showticket {'id': '294'}
+19-02-2012 12:23: email {'id': '294'}
+19-02-2012 12:23: showticket {'id': '294'}
+19-02-2012 12:23: showlist {'unsent': '1'}
+19-02-2012 12:24: showlist {}
+19-02-2012 12:24: register {}
+19-02-2012 12:24: insert {'name': 'Riccardo Ueuo Pogliani', 'number': '1', 'email': 'uueuo@hotmail.com', 'date': '19/02/12', 'trans': '', 'payment': 'Bank transfer'}
+19-02-2012 12:24: showticket {'id': '295'}
+19-02-2012 12:24: email {'id': '295'}
+19-02-2012 12:24: showlist {}
+19-02-2012 12:30: showlist {'unsent': '1'}
+19-02-2012 13:08: default {}
+19-02-2012 13:12: showlist {}
+19-02-2012 13:12: showticket {'id': '295'}
+19-02-2012 14:22: showlist {}
+19-02-2012 14:26: showlist {'unsent': '1'}
+19-02-2012 15:07: showlist {}
+19-02-2012 15:10: showlist {}
+19-02-2012 15:10: default {}
+19-02-2012 15:15: showlist {}
+19-02-2012 15:15: showticket {'id': '166'}
+19-02-2012 15:16: showpdf {'c': 'x3THZ'}
+19-02-2012 15:16: showticket {'id': '167'}
+19-02-2012 15:16: showpdf {'c': 'wOBiH'}
+19-02-2012 17:52: showlist {}
+19-02-2012 17:53: showticket {'id': '278'}
+19-02-2012 17:53: showpdf {'c': 'JcNWC'}
+19-02-2012 19:18: showlist {}
+19-02-2012 19:54: showlist {}
+19-02-2012 23:09: showlist {}
+20-02-2012 10:01: showlist {}
+20-02-2012 10:12: register {}
+20-02-2012 10:13: insert {'name': 'Stefano Versolatto', 'number': '4', 'email': 'SIR.WASTED@GMAIL.com', 'date': '20/02/2012', 'trans': '82483394008 ', 'payment': 'Bank transfer'}
+20-02-2012 10:13: register {}
+20-02-2012 10:14: insert {'name': 'antonio bitto', 'number': '1', 'email': 'micidiale@hotmail.com', 'date': '20/02/2012', 'trans': '82483394008', 'payment': 'Bank transfer'}
+20-02-2012 10:17: showlist {'unsent': '1'}
+20-02-2012 10:17: showticket {'id': '296'}
+20-02-2012 10:17: email {'id': '296'}
+20-02-2012 10:17: showticket {'id': '296'}
+20-02-2012 10:17: showlist {'unsent': '1'}
+20-02-2012 10:17: showticket {'id': '297'}
+20-02-2012 10:17: email {'id': '297'}
+20-02-2012 10:17: showticket {'id': '297'}
+20-02-2012 10:17: showlist {'unsent': '1'}
+20-02-2012 10:17: showticket {'id': '298'}
+20-02-2012 10:17: email {'id': '298'}
+20-02-2012 10:17: showticket {'id': '298'}
+20-02-2012 10:17: showlist {'unsent': '1'}
+20-02-2012 10:18: showticket {'id': '299'}
+20-02-2012 10:18: email {'id': '299'}
+20-02-2012 10:18: showticket {'id': '299'}
+20-02-2012 10:18: showlist {'unsent': '1'}
+20-02-2012 10:18: showticket {'id': '300'}
+20-02-2012 10:18: email {'id': '300'}
+20-02-2012 10:18: showticket {'id': '300'}
+20-02-2012 10:18: showlist {'unsent': '1'}
+20-02-2012 10:26: showlist {}
+20-02-2012 10:46: register {}
+20-02-2012 10:47: insert {'name': 'andrea pomes ', 'number': '1', 'email': 'andrea_pomes@yahoo.it', 'date': '18/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:48: register {}
+20-02-2012 10:49: insert {'name': 'Marco Mora ', 'number': '1', 'email': 'blacksabbath_@libero.it', 'date': '18/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:49: register {}
+20-02-2012 10:49: insert {'name': 'Federica Schiavina ', 'number': '1', 'email': 'federica@edor.it', 'date': '18/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:50: register {}
+20-02-2012 10:50: insert {'name': 'Stefano Cuch ', 'number': '1', 'email': 'capitancuch@libero.it', 'date': '19/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:50: register {}
+20-02-2012 10:50: insert {'name': 'Christian G\xc3\xa4rtner ', 'number': '1', 'email': 'christian.gaertner.ffm@gmx.de', 'date': '19/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:51: register {}
+20-02-2012 10:51: insert {'name': 'luigi angelo meazzi ', 'number': '1', 'email': 'elenameazzi@gmail.com', 'date': '19/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:52: showticket {'id': '306'}
+20-02-2012 10:52: default {}
+20-02-2012 10:52: register {}
+20-02-2012 10:52: insert {'name': 'Marco Aguzzi ', 'number': '1', 'email': 'marco.aguzzi@gmail.com', 'date': '19/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:52: register {}
+20-02-2012 10:53: insert {'name': 'Maria Sampaolo', 'number': '2', 'email': 'valekta83@yahoo.it', 'date': '19/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:53: register {}
+20-02-2012 10:54: insert {'name': 'FRANCESCO STURNIOLO ', 'number': '1', 'email': 'f.sturniolo@yahoo.it', 'date': '19/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:54: register {}
+20-02-2012 10:55: insert {'name': 'Matteo Frighi ', 'number': '1', 'email': 'bricchetto71@yahoo.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:55: register {}
+20-02-2012 10:56: insert {'name': 'Valentina Biondi', 'number': '2', 'email': 'vale_biondi@hotmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 10:58: register {}
+20-02-2012 10:58: insert {'name': 'Daniela Vanzelli', 'number': '4', 'email': 'daniela.vanzelli@gmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+20-02-2012 10:59: register {}
+20-02-2012 11:01: insert {'name': 'Roberta Pierfederici', 'number': '1', 'email': 'jinhio@email.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 11:02: register {}
+20-02-2012 11:02: insert {'name': 'Stefano Fiacco', 'number': '1', 'email': 'jinhio@email.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 11:02: register {}
+20-02-2012 11:03: insert {'name': 'Annalisa Bracciale', 'number': '1', 'email': 'jinhio@email.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 11:03: register {}
+20-02-2012 11:03: insert {'name': 'Adriana Feerraioli', 'number': '1', 'email': 'jinhio@email.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+20-02-2012 11:03: register {}
+20-02-2012 11:04: insert {'name': 'Giorgio Ghezzi', 'number': '2', 'email': 'jinhio@email.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Bank transfer'}
+20-02-2012 11:08: showticket {'id': '315'}
+20-02-2012 11:31: showlist {}
+20-02-2012 11:31: showlist {'unsent': '1'}
+20-02-2012 11:31: showticket {'id': '301'}
+20-02-2012 11:31: email {'id': '301'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '302'}
+20-02-2012 11:38: email {'id': '302'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '303'}
+20-02-2012 11:38: email {'id': '303'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '304'}
+20-02-2012 11:38: email {'id': '304'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '306'}
+20-02-2012 11:38: email {'id': '306'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '307'}
+20-02-2012 11:38: email {'id': '307'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '308'}
+20-02-2012 11:38: email {'id': '308'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '305'}
+20-02-2012 11:38: email {'id': '305'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '311'}
+20-02-2012 11:38: email {'id': '311'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '313'}
+20-02-2012 11:38: email {'id': '313'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:38: showticket {'id': '312'}
+20-02-2012 11:38: email {'id': '312'}
+20-02-2012 11:38: showlist {'unsent': '1'}
+20-02-2012 11:39: showticket {'id': '310'}
+20-02-2012 11:39: email {'id': '310'}
+20-02-2012 11:39: showlist {'unsent': '1'}
+20-02-2012 11:39: showticket {'id': '309'}
+20-02-2012 11:39: email {'id': '309'}
+20-02-2012 11:39: showlist {'unsent': '1'}
+20-02-2012 11:39: showticket {'id': '314'}
+20-02-2012 11:39: email {'id': '314'}
+20-02-2012 11:39: showlist {'unsent': '1'}
+20-02-2012 11:39: showticket {'id': '317'}
+20-02-2012 11:39: email {'id': '317'}
+20-02-2012 11:39: showlist {'unsent': '1'}
+20-02-2012 11:39: showticket {'id': '315'}
+20-02-2012 11:39: email {'id': '315'}
+20-02-2012 11:39: showlist {'unsent': '1'}
+20-02-2012 11:39: showticket {'id': '316'}
+20-02-2012 11:39: email {'id': '316'}
+20-02-2012 11:39: showticket {'id': '1'}
+20-02-2012 11:39: email {'id': '1'}
+20-02-2012 11:39: showlist {'unsent': '1'}
+20-02-2012 11:39: showticket {'id': '318'}
+20-02-2012 11:39: email {'id': '318'}
+20-02-2012 11:39: showlist {'unsent': '1'}
+20-02-2012 11:40: showticket {'id': '319'}
+20-02-2012 11:40: email {'id': '319'}
+20-02-2012 11:40: showlist {'unsent': '1'}
+20-02-2012 11:40: showticket {'id': '320'}
+20-02-2012 11:40: email {'id': '320'}
+20-02-2012 11:40: showlist {'unsent': '1'}
+20-02-2012 11:40: showticket {'id': '321'}
+20-02-2012 11:40: email {'id': '321'}
+20-02-2012 11:40: showlist {'unsent': '1'}
+20-02-2012 11:40: showticket {'id': '323'}
+20-02-2012 11:40: email {'id': '323'}
+20-02-2012 11:40: showlist {'unsent': '1'}
+20-02-2012 11:40: showticket {'id': '322'}
+20-02-2012 11:40: email {'id': '322'}
+20-02-2012 11:56: showlist {}
+20-02-2012 11:56: showticket {'id': '314'}
+20-02-2012 11:56: email {'id': '314'}
+20-02-2012 11:56: showticket {'id': '314'}
+20-02-2012 11:56: showpdf {'c': 'psXVT'}
+20-02-2012 11:56: showticket {'id': '315'}
+20-02-2012 11:56: showpdf {'c': 'ICsBy'}
+20-02-2012 11:56: showticket {'id': '316'}
+20-02-2012 11:57: showpdf {'c': 'ndGvo'}
+20-02-2012 11:57: showticket {'id': '317'}
+20-02-2012 11:57: showpdf {'c': 'AAAtA'}
+20-02-2012 11:57: showticket {'id': '318'}
+20-02-2012 11:57: showpdf {'c': 'YCgGr'}
+20-02-2012 11:57: showticket {'id': '319'}
+20-02-2012 11:57: showpdf {'c': 'XqEKC'}
+20-02-2012 11:58: showticket {'id': '320'}
+20-02-2012 11:58: showpdf {'c': 'AKWX4'}
+20-02-2012 11:58: showticket {'id': '321'}
+20-02-2012 11:58: showpdf {'c': 'iq0hP'}
+20-02-2012 11:58: showticket {'id': '322'}
+20-02-2012 11:58: showpdf {'c': 'XQZIl'}
+20-02-2012 11:58: showpdf {'c': 'XQZIl'}
+20-02-2012 11:58: showticket {'id': '323'}
+20-02-2012 11:58: showpdf {'c': 'P4h53'}
+20-02-2012 13:12: showlist {}
+20-02-2012 16:19: showlist {}
+20-02-2012 17:08: showlist {}
+20-02-2012 17:09: register {}
+20-02-2012 17:10: insert {'name': 'michele morelli', 'number': '1', 'email': 'michemorelli@yahoo.co.uk', 'date': '20/02/2012', 'trans': '000000000692098 ', 'payment': 'Bank transfer'}
+20-02-2012 17:10: showlist {'unsent': '1'}
+20-02-2012 17:10: showticket {'id': '324'}
+20-02-2012 17:10: email {'id': '324'}
+20-02-2012 17:58: showlist {}
+20-02-2012 18:03: showlist {}
+20-02-2012 18:03: register {}
+20-02-2012 18:05: showlist {}
+20-02-2012 18:05: insert {'name': 'andrea bellino ', 'number': '1', 'email': 'andrea.bellino75@gmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 18:05: register {}
+20-02-2012 18:06: insert {'name': 'Marcus Vinicius Marques Pessoa ', 'number': '1', 'email': 'mavipe@hotmail.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 18:07: register {}
+20-02-2012 18:08: insert {'name': 'Roberta Deiana ', 'number': '2', 'email': 'rob.deiana@gmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 18:09: register {}
+20-02-2012 18:09: insert {'name': 'paolo traversa ', 'number': '4', 'email': '7lilloz@gmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 18:10: register {}
+20-02-2012 18:10: insert {'name': 'maurizio carsana ', 'number': '3', 'email': 'supermaury83@gmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 18:10: register {}
+20-02-2012 18:11: insert {'name': 'SEBASTIEN LEVY ', 'number': '1', 'email': 'levy.seb@gmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 18:11: register {}
+20-02-2012 18:11: insert {'name': 'Umberto Ferrara ', 'number': '1', 'email': 'inbilico77@hotmail.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+20-02-2012 23:56: default {}
+20-02-2012 23:56: showlist {}
+20-02-2012 23:57: showlist {'unsent': '1'}
+20-02-2012 23:57: showticket {'id': '325'}
+20-02-2012 23:57: email {'id': '325'}
+20-02-2012 23:57: showticket {'id': '325'}
+20-02-2012 23:57: showlist {'unsent': '1'}
+20-02-2012 23:58: showticket {'id': '326'}
+20-02-2012 23:58: email {'id': '326'}
+20-02-2012 23:58: showticket {'id': '326'}
+20-02-2012 23:58: showlist {'unsent': '1'}
+20-02-2012 23:58: showticket {'id': '327'}
+20-02-2012 23:58: email {'id': '327'}
+20-02-2012 23:58: showticket {'id': '327'}
+20-02-2012 23:58: showlist {'unsent': '1'}
+20-02-2012 23:58: showticket {'id': '328'}
+20-02-2012 23:58: email {'id': '328'}
+20-02-2012 23:58: showticket {'id': '328'}
+20-02-2012 23:58: showlist {'unsent': '1'}
+20-02-2012 23:58: showticket {'id': '329'}
+20-02-2012 23:58: email {'id': '329'}
+20-02-2012 23:58: showticket {'id': '329'}
+20-02-2012 23:58: showlist {'unsent': '1'}
+20-02-2012 23:58: showticket {'id': '330'}
+20-02-2012 23:58: email {'id': '330'}
+20-02-2012 23:58: showticket {'id': '330'}
+20-02-2012 23:58: showlist {'unsent': '1'}
+20-02-2012 23:58: showticket {'id': '331'}
+20-02-2012 23:58: email {'id': '331'}
+20-02-2012 23:58: showticket {'id': '331'}
+20-02-2012 23:58: showlist {'unsent': '1'}
+20-02-2012 23:58: showticket {'id': '332'}
+20-02-2012 23:58: email {'id': '332'}
+20-02-2012 23:58: showticket {'id': '332'}
+20-02-2012 23:58: showlist {'unsent': '1'}
+20-02-2012 23:58: showticket {'id': '333'}
+20-02-2012 23:59: email {'id': '333'}
+20-02-2012 23:59: showticket {'id': '333'}
+20-02-2012 23:59: showlist {'unsent': '1'}
+20-02-2012 23:59: showticket {'id': '334'}
+20-02-2012 23:59: email {'id': '334'}
+20-02-2012 23:59: showticket {'id': '334'}
+20-02-2012 23:59: showlist {'unsent': '1'}
+20-02-2012 23:59: showticket {'id': '335'}
+20-02-2012 23:59: email {'id': '335'}
+20-02-2012 23:59: showticket {'id': '335'}
+20-02-2012 23:59: showlist {'unsent': '1'}
+20-02-2012 23:59: showticket {'id': '336'}
+20-02-2012 23:59: email {'id': '336'}
+20-02-2012 23:59: showticket {'id': '336'}
+20-02-2012 23:59: showlist {'unsent': '1'}
+20-02-2012 23:59: showticket {'id': '337'}
+20-02-2012 23:59: email {'id': '337'}
+20-02-2012 23:59: showticket {'id': '337'}
+20-02-2012 23:59: showlist {'unsent': '1'}
+20-02-2012 23:59: showlist {}
+21-02-2012 00:00: showticket {'id': '154'}
+21-02-2012 00:00: showlist {}
+21-02-2012 00:00: showlist {'unsent': '1'}
+21-02-2012 00:00: register {}
+21-02-2012 00:00: settings {}
+21-02-2012 00:01: showlist {'unsent': '1'}
+21-02-2012 00:02: showlist {}
+21-02-2012 09:50: showlist {}
+21-02-2012 09:50: showlist {}
+21-02-2012 09:53: register {}
+21-02-2012 09:53: showlist {}
+21-02-2012 09:53: showlist {}
+21-02-2012 09:54: register {}
+21-02-2012 09:55: insert {'name': 'giuseppe sabini', 'number': '1', 'email': 'peppes08@libero.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+21-02-2012 09:55: insert {'name': 'alessandro antonarelli ', 'number': '1', 'email': 'franziska.mein.liebe@hotmail.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+21-02-2012 09:56: insert {'name': 'alessandro antonarelli ', 'number': '1', 'email': 'franziska.mein.liebe@hotmail.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+21-02-2012 09:56: showticket {'id': '340'}
+21-02-2012 09:56: delete {'id': '340'}
+21-02-2012 09:56: register {}
+21-02-2012 09:57: insert {'name': 'maurizio carsana ', 'number': '4', 'email': 'supermaury83@gmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+21-02-2012 09:57: register {}
+21-02-2012 09:58: insert {'name': 'emanuele schivo ', 'number': '2', 'email': 'emax06@libero.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+21-02-2012 09:58: register {}
+21-02-2012 09:59: insert {'name': 'giovanni angelini ', 'number': '1', 'email': 'thefusion73@yahoo.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+21-02-2012 09:59: register {}
+21-02-2012 09:59: insert {'name': 'gianfranco sgro ', 'number': '2', 'email': 'milanolivex@yahoo.it', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+21-02-2012 10:00: register {}
+21-02-2012 10:00: insert {'name': 'Giovanni Di Naro ', 'number': '2', 'email': 'giovannidinaro@gmail.com', 'date': '20/02/2012', 'trans': '', 'payment': 'Paypal'}
+21-02-2012 10:20: showlist {'unsent': '1'}
+21-02-2012 12:34: showlist {}
+21-02-2012 12:35: showlist {}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '338'}
+21-02-2012 12:41: email {'id': '338'}
+21-02-2012 12:41: showticket {'id': '338'}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '339'}
+21-02-2012 12:41: email {'id': '339'}
+21-02-2012 12:41: showticket {'id': '339'}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '341'}
+21-02-2012 12:41: email {'id': '341'}
+21-02-2012 12:41: showticket {'id': '341'}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '342'}
+21-02-2012 12:41: email {'id': '342'}
+21-02-2012 12:41: showticket {'id': '342'}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '343'}
+21-02-2012 12:41: email {'id': '343'}
+21-02-2012 12:41: showticket {'id': '343'}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '344'}
+21-02-2012 12:41: email {'id': '344'}
+21-02-2012 12:41: showticket {'id': '344'}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '345'}
+21-02-2012 12:41: email {'id': '345'}
+21-02-2012 12:41: showticket {'id': '345'}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '346'}
+21-02-2012 12:41: email {'id': '346'}
+21-02-2012 12:41: showticket {'id': '346'}
+21-02-2012 12:41: showlist {'unsent': '1'}
+21-02-2012 12:41: showticket {'id': '347'}
+21-02-2012 12:42: email {'id': '347'}
+21-02-2012 12:42: showticket {'id': '347'}
+21-02-2012 12:42: showlist {'unsent': '1'}
+21-02-2012 12:42: showticket {'id': '348'}
+21-02-2012 12:42: email {'id': '348'}
+21-02-2012 12:42: showticket {'id': '348'}
+21-02-2012 12:42: showlist {'unsent': '1'}
+21-02-2012 12:42: showticket {'id': '349'}
+21-02-2012 12:42: email {'id': '349'}
+21-02-2012 12:42: showticket {'id': '349'}
+21-02-2012 12:42: showlist {'unsent': '1'}
+21-02-2012 12:42: showticket {'id': '350'}
+21-02-2012 12:42: email {'id': '350'}
+21-02-2012 12:42: showticket {'id': '350'}
+21-02-2012 12:42: showlist {'unsent': '1'}
+21-02-2012 12:42: showticket {'id': '351'}
+21-02-2012 12:42: email {'id': '351'}
+21-02-2012 12:42: showticket {'id': '351'}
+21-02-2012 12:42: showlist {'unsent': '1'}
+21-02-2012 12:42: settings {}
+21-02-2012 12:42: showlist {}
+21-02-2012 12:42: showlist {'unsent': '1'}
+21-02-2012 12:42: showlist {}
+21-02-2012 13:30: showlist {}
+21-02-2012 13:30: register {}
+21-02-2012 13:30: showlist {'unsent': '1'}
+21-02-2012 13:30: register {}
+21-02-2012 13:32: insert {'name': 'Strega Scarlatta', 'number': '1', 'email': 'jinhio@email.it', 'date': '21/02/2012', 'trans': 'contanti a GHEZZI', 'payment': 'Bank transfer'}
+21-02-2012 13:32: register {}
+21-02-2012 13:32: insert {'name': 'Enzo di Paolo', 'number': '1', 'email': 'jinhio@email.it', 'date': '21/02/2012', 'trans': 'contanti a GHEZZI', 'payment': 'Bank transfer'}
+21-02-2012 13:33: register {}
+21-02-2012 13:34: insert {'name': 'Gianni Manzari', 'number': '1', 'email': 'jinhio@email.it', 'date': '21/02/2012', 'trans': 'contanti a GHEZZI', 'payment': 'Bank transfer'}
+21-02-2012 13:34: showlist {'unsent': '1'}
+21-02-2012 13:34: showticket {'id': '352'}
+21-02-2012 13:34: email {'id': '352'}
+21-02-2012 13:34: showlist {'unsent': '1'}
+21-02-2012 13:34: showticket {'id': '353'}
+21-02-2012 13:34: email {'id': '353'}
+21-02-2012 13:34: showlist {'unsent': '1'}
+21-02-2012 13:34: showticket {'id': '354'}
+21-02-2012 13:34: email {'id': '354'}
+21-02-2012 13:36: register {}
+21-02-2012 13:36: showlist {}
+21-02-2012 13:38: showlist {}
+21-02-2012 13:38: showticket {'id': '352'}
+21-02-2012 13:38: showpdf {'c': 'wFJzN'}
+21-02-2012 13:38: showticket {'id': '353'}
+21-02-2012 13:39: showpdf {'c': '4oYch'}
+21-02-2012 13:39: showticket {'id': '354'}
+21-02-2012 13:39: showpdf {'c': 'Yzilx'}
+21-02-2012 14:01: showlist {}
+21-02-2012 14:19: showlist {}
+21-02-2012 14:46: default {}
+21-02-2012 14:46: showlist {}
+21-02-2012 15:05: showlist {}
+21-02-2012 15:26: showlist {'unsent': '1'}
+21-02-2012 15:26: showlist {}
+21-02-2012 18:07: showlist {}
+21-02-2012 18:08: showlist {'unsent': '1'}
+22-02-2012 09:58: showlist {}
+22-02-2012 09:59: register {}
+22-02-2012 10:00: insert {'name': 'giulio biscaro', 'number': '2', 'email': 'giulio.biscaro@gmail.com', 'date': '', 'trans': '', 'payment': 'Bank transfer'}
+22-02-2012 10:00: showlist {'unsent': '1'}
+22-02-2012 10:00: showticket {'id': '355'}
+22-02-2012 10:00: email {'id': '355'}
+22-02-2012 10:00: showticket {'id': '355'}
+22-02-2012 10:00: showlist {'unsent': '1'}
+22-02-2012 10:00: showticket {'id': '356'}
+22-02-2012 10:00: email {'id': '356'}
+22-02-2012 10:00: showticket {'id': '356'}
+22-02-2012 10:00: showlist {'unsent': '1'}
+22-02-2012 12:01: showlist {}
+22-02-2012 12:08: register {}
+22-02-2012 12:09: insert {'name': 'eugenio de giudici ', 'number': '3', 'email': 'eugeniodegiudici@email.it', 'date': '21/02/2012', 'trans': '', 'payment': 'Paypal'}
+22-02-2012 12:09: register {}
+22-02-2012 12:09: insert {'name': 'Melinda McKee ', 'number': '2', 'email': 'noturstar23@aol.com', 'date': '21/02/2012', 'trans': '', 'payment': 'Paypal'}
+22-02-2012 13:48: settings {}
+22-02-2012 13:49: register {}
+22-02-2012 13:52: insert {'name': 'Maria Centonze', 'number': '5', 'email': 'marias100@virgilio.it', 'date': '22/02/2012', 'trans': 'contanti a Gianpaolo', 'payment': 'Paypal'}
+22-02-2012 13:53: showlist {'unsent': '1'}
+22-02-2012 13:59: showticket {'id': '362'}
+22-02-2012 14:02: showticket {'id': '362'}
+22-02-2012 14:04: email {'id': '362'}
+22-02-2012 14:31: showticket {'id': '9'}
+22-02-2012 14:31: showlist {}
+22-02-2012 14:31: showlist {'unsent': '1'}
+22-02-2012 14:31: showticket {'id': '357'}
+22-02-2012 14:31: email {'id': '357'}
+22-02-2012 14:31: showlist {}
+22-02-2012 14:31: showticket {'id': '1'}
+22-02-2012 14:31: showlist {}
+22-02-2012 14:31: showlist {'unsent': '1'}
+22-02-2012 14:32: showticket {'id': '358'}
+22-02-2012 14:32: email {'id': '358'}
+22-02-2012 14:32: showlist {}
+22-02-2012 14:32: showlist {'unsent': '1'}
+22-02-2012 14:32: showticket {'id': '359'}
+22-02-2012 14:32: email {'id': '359'}
+22-02-2012 14:32: showlist {}
+22-02-2012 14:32: showlist {'unsent': '1'}
+22-02-2012 14:32: showticket {'id': '360'}
+22-02-2012 14:32: email {'id': '360'}
+22-02-2012 14:32: showlist {}
+22-02-2012 14:32: showlist {'unsent': '1'}
+22-02-2012 14:32: showticket {'id': '361'}
+22-02-2012 14:32: email {'id': '361'}
+22-02-2012 14:32: showlist {}
+22-02-2012 14:32: showlist {'unsent': '1'}
+22-02-2012 14:32: showticket {'id': '363'}
+22-02-2012 14:32: email {'id': '363'}
+22-02-2012 14:32: showlist {}
+22-02-2012 14:32: showlist {'unsent': '1'}
+22-02-2012 14:32: showticket {'id': '364'}
+22-02-2012 14:32: email {'id': '364'}
+22-02-2012 14:32: showlist {}
+22-02-2012 14:32: showlist {'unsent': '1'}
+22-02-2012 14:32: showticket {'id': '365'}
+22-02-2012 14:32: email {'id': '365'}
+22-02-2012 14:32: showlist {}
+22-02-2012 14:32: showlist {'unsent': '1'}
+22-02-2012 14:32: showticket {'id': '366'}
+22-02-2012 14:32: email {'id': '366'}
+22-02-2012 14:32: showlist {}
+22-02-2012 14:33: showticket {'id': '169'}
+22-02-2012 14:33: register {}
+22-02-2012 14:34: insert {'name': 'Kojo Levente Kadar', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:34: showlist {'unsent': '1'}
+22-02-2012 14:34: register {}
+22-02-2012 14:35: insert {'name': 'Kojo Zsuzsa Ramocsa', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:35: register {}
+22-02-2012 14:35: insert {'name': 'Kojo Maria Lazarenko', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:35: register {}
+22-02-2012 14:36: insert {'name': 'Kojo Evgeniya Manturova', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:36: register {}
+22-02-2012 14:36: insert {'name': 'Kojo Elena *Tiger', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:36: register {}
+22-02-2012 14:37: insert {'name': 'Kojo Calley Edlund', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:37: register {}
+22-02-2012 14:37: insert {'name': 'Kojo Anna *Edlund', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:37: register {}
+22-02-2012 14:37: insert {'name': 'Kojo Eve Vitrugno', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:37: register {}
+22-02-2012 14:38: insert {'name': 'Kojo Nicol\xc3\xb2 Collura', 'number': '1', 'email': 'nikojo7@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Kojo', 'payment': 'Bank transfer'}
+22-02-2012 14:38: showlist {}
+22-02-2012 14:38: showlist {'unsent': '1'}
+22-02-2012 14:38: showticket {'id': '367'}
+22-02-2012 14:38: email {'id': '367'}
+22-02-2012 14:38: showticket {'id': '367'}
+22-02-2012 14:38: showlist {'unsent': '1'}
+22-02-2012 14:38: showticket {'id': '368'}
+22-02-2012 14:38: email {'id': '368'}
+22-02-2012 14:38: showticket {'id': '368'}
+22-02-2012 14:38: showlist {'unsent': '1'}
+22-02-2012 14:38: showticket {'id': '369'}
+22-02-2012 14:38: email {'id': '369'}
+22-02-2012 14:38: showticket {'id': '369'}
+22-02-2012 14:38: showlist {'unsent': '1'}
+22-02-2012 14:38: showticket {'id': '370'}
+22-02-2012 14:38: email {'id': '370'}
+22-02-2012 14:38: showticket {'id': '370'}
+22-02-2012 14:38: showlist {'unsent': '1'}
+22-02-2012 14:38: showticket {'id': '371'}
+22-02-2012 14:38: email {'id': '371'}
+22-02-2012 14:38: showticket {'id': '371'}
+22-02-2012 14:38: showlist {'unsent': '1'}
+22-02-2012 14:38: showticket {'id': '372'}
+22-02-2012 14:38: email {'id': '372'}
+22-02-2012 14:39: showticket {'id': '372'}
+22-02-2012 14:39: showlist {'unsent': '1'}
+22-02-2012 14:39: showticket {'id': '373'}
+22-02-2012 14:39: email {'id': '373'}
+22-02-2012 14:39: showticket {'id': '373'}
+22-02-2012 14:39: showlist {'unsent': '1'}
+22-02-2012 14:39: showticket {'id': '374'}
+22-02-2012 14:39: email {'id': '374'}
+22-02-2012 14:39: showticket {'id': '374'}
+22-02-2012 14:39: showlist {'unsent': '1'}
+22-02-2012 14:39: showticket {'id': '375'}
+22-02-2012 14:39: email {'id': '375'}
+22-02-2012 14:39: showticket {'id': '375'}
+22-02-2012 14:39: showlist {'unsent': '1'}
+22-02-2012 14:39: showlist {}
+22-02-2012 14:39: showlist {'unsent': '1'}
+22-02-2012 14:39: showlist {}
+22-02-2012 14:40: showticket {'id': '169'}
+22-02-2012 14:40: showlist {}
+22-02-2012 14:40: showticket {'id': '169'}
+22-02-2012 14:40: email {'id': '169'}
+22-02-2012 14:41: email {'id': '170'}
+22-02-2012 14:41: email {'id': '171'}
+22-02-2012 14:41: email {'id': '172'}
+22-02-2012 14:41: email {'id': '173'}
+22-02-2012 14:41: email {'id': '174'}
+22-02-2012 14:41: email {'id': '175'}
+22-02-2012 14:41: email {'id': '176'}
+22-02-2012 14:41: email {'id': '177'}
+22-02-2012 14:41: email {'id': '178'}
+22-02-2012 14:41: email {'id': '179'}
+22-02-2012 14:41: email {'id': '180'}
+22-02-2012 14:41: email {'id': '181'}
+22-02-2012 14:42: email {'id': '182'}
+22-02-2012 14:42: email {'id': '183'}
+22-02-2012 14:42: email {'id': '184'}
+22-02-2012 14:42: email {'id': '185'}
+22-02-2012 14:42: email {'id': '186'}
+22-02-2012 14:42: email {'id': '187'}
+22-02-2012 14:42: email {'id': '188'}
+22-02-2012 14:42: email {'id': '189'}
+22-02-2012 14:44: showlist {}
+22-02-2012 14:44: showlist {'unsent': '1'}
+22-02-2012 14:44: register {}
+22-02-2012 14:47: showlist {}
+22-02-2012 15:31: showlist {}
+22-02-2012 15:34: register {}
+22-02-2012 15:34: showlist {}
+22-02-2012 15:35: register {}
+22-02-2012 15:35: showlist {}
+22-02-2012 15:35: showlist {'unsent': '1'}
+22-02-2012 15:35: showlist {'undownloaded': '1'}
+22-02-2012 15:35: showticket {'id': '6'}
+22-02-2012 15:36: showlist {}
+22-02-2012 15:36: showlist {'unchecked': '1'}
+22-02-2012 15:36: showlist {'undownloaded': '1'}
+22-02-2012 15:36: showlist {'unsent': '1'}
+22-02-2012 15:36: showlist {}
+22-02-2012 16:31: settings {}
+22-02-2012 16:32: showlist {}
+22-02-2012 16:32: showlist {'undownloaded': '1'}
+22-02-2012 16:32: showticket {'id': '375'}
+22-02-2012 16:32: email {'id': '375'}
+22-02-2012 16:32: showlist {}
+22-02-2012 16:32: showlist {'undownloaded': '1'}
+22-02-2012 17:18: showlist {}
+22-02-2012 17:18: showlist {'unsent': '1'}
+22-02-2012 17:18: showlist {'undownloaded': '1'}
+22-02-2012 18:00: showlist {'unsent': '1'}
+22-02-2012 18:00: showlist {'undownloaded': '1'}
+22-02-2012 18:00: showlist {}
+22-02-2012 18:00: showlist {'unsent': '1'}
+22-02-2012 18:00: register {}
+22-02-2012 18:01: insert {'name': 'Daniela Franz\xc3\xb2', 'number': '1', 'email': 'alfadaniela@gmail.com', 'date': '22/02/2012', 'trans': 'contanti a Gianpaolo*', 'payment': 'Bank transfer'}
+22-02-2012 18:01: showlist {'unsent': '1'}
+22-02-2012 18:01: showticket {'id': '376'}
+22-02-2012 18:01: showpdf {'c': 'tKfjk'}
+22-02-2012 18:01: email {'id': '376'}
+22-02-2012 18:03: showlist {}
+22-02-2012 18:03: showlist {'unsent': '1'}
+22-02-2012 18:03: showlist {'undownloaded': '1'}
+22-02-2012 19:16: showlist {}
+22-02-2012 19:16: showticket {'id': '375'}
+22-02-2012 19:17: email {'id': '375'}
+22-02-2012 19:17: register {}
+22-02-2012 19:17: showlist {}
+22-02-2012 19:17: showlist {'unsent': '1'}
+22-02-2012 19:17: showlist {'undownloaded': '1'}
+22-02-2012 19:40: showticket {'id': '360'}
+22-02-2012 20:34: showlist {}
+22-02-2012 20:34: showlist {'undownloaded': '1'}
+22-02-2012 20:34: showlist {}
+22-02-2012 20:35: register {}
+22-02-2012 20:35: showlist {}
+22-02-2012 20:35: showticket {'id': '169'}
+22-02-2012 20:35: register {}
+22-02-2012 20:35: register {}
+22-02-2012 20:35: showlist {}
+22-02-2012 20:36: insert {'name': 'Marco Gloder', 'number': '9', 'email': 'spiderman7791@hotmail.com', 'date': '22/02/2012', 'trans': 'contanti a Marco', 'payment': 'Bank transfer'}
+22-02-2012 20:36: showlist {'unsent': '1'}
+22-02-2012 20:36: showticket {'id': '377'}
+22-02-2012 20:37: email {'id': '377'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:37: showlist {'unsent': '1'}
+22-02-2012 20:37: showticket {'id': '378'}
+22-02-2012 20:37: email {'id': '378'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:37: showlist {'unsent': '1'}
+22-02-2012 20:37: showticket {'id': '379'}
+22-02-2012 20:37: email {'id': '379'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:37: showlist {'unsent': '1'}
+22-02-2012 20:37: showticket {'id': '380'}
+22-02-2012 20:37: email {'id': '380'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:37: showlist {'unsent': '1'}
+22-02-2012 20:37: showticket {'id': '381'}
+22-02-2012 20:37: email {'id': '381'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:37: showlist {'unsent': '1'}
+22-02-2012 20:37: showticket {'id': '382'}
+22-02-2012 20:37: email {'id': '382'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:37: showlist {'unsent': '1'}
+22-02-2012 20:37: showticket {'id': '383'}
+22-02-2012 20:37: email {'id': '383'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:37: showlist {'unsent': '1'}
+22-02-2012 20:37: showticket {'id': '384'}
+22-02-2012 20:37: email {'id': '384'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:37: showlist {'unsent': '1'}
+22-02-2012 20:37: showticket {'id': '385'}
+22-02-2012 20:37: email {'id': '385'}
+22-02-2012 20:37: showlist {}
+22-02-2012 20:45: register {}
+22-02-2012 20:45: settings {}
+22-02-2012 20:45: showlist {}
+22-02-2012 20:45: showlist {'undownloaded': '1'}
+22-02-2012 20:46: showlist {'unchecked': '1'}
+22-02-2012 20:46: showlist {'unsent': '1'}
+22-02-2012 20:46: showlist {}
+22-02-2012 20:46: showlist {'unsent': '1'}
+22-02-2012 20:48: default {}
+22-02-2012 22:11: default {}
+22-02-2012 22:11: register {}
+22-02-2012 23:05: register {}
+22-02-2012 23:05: showlist {}
+22-02-2012 23:06: showlist {'undownloaded': '1'}
+23-02-2012 10:41: showlist {}
+23-02-2012 10:42: register {}
+23-02-2012 10:51: insert {'name': 'Paola Coletti', 'number': '1', 'email': 'jinhio@email.it', 'date': '22/02/2012', 'trans': 'contanti a GHEZZI', 'payment': 'Bank transfer'}
+23-02-2012 10:51: showlist {'unsent': '1'}
+23-02-2012 10:51: showlist {'undownloaded': '1'}
+23-02-2012 10:51: showlist {'unchecked': '1'}
+23-02-2012 10:51: showlist {'undownloaded': '1'}
+23-02-2012 10:51: showlist {'unsent': '1'}
+23-02-2012 10:51: showticket {'id': '386'}
+23-02-2012 10:52: email {'id': '386'}
+23-02-2012 10:52: register {}
+23-02-2012 11:05: showlist {'unsent': '1'}
+23-02-2012 11:05: register {}
+23-02-2012 11:06: insert {'name': 'sabrina tito', 'number': '1', 'email': 'jinhio@email.it', 'date': '22/02/2012', 'trans': 'contanti a GHEZZI', 'payment': 'Bank transfer'}
+23-02-2012 11:06: showlist {'unsent': '1'}
+23-02-2012 11:06: showticket {'id': '387'}
+23-02-2012 11:06: email {'id': '387'}
+23-02-2012 11:06: register {}
+23-02-2012 11:09: showlist {}
+23-02-2012 11:42: showticket {'id': '383'}
+23-02-2012 11:44: default {}
+23-02-2012 11:46: default {}
+23-02-2012 11:46: showlist {}
+23-02-2012 11:46: register {}
+23-02-2012 11:46: showlist {}
+23-02-2012 11:48: showticket {'id': '76'}
+23-02-2012 11:59: register {}
+23-02-2012 12:05: insert {'name': 'Giorgio Ghezzi', 'number': '1', 'email': 'jinhio@email.it', 'date': '22/02/2012', 'trans': 'contanti a GHEZZI', 'payment': 'Bank transfer'}
+23-02-2012 12:05: showlist {}
+23-02-2012 12:24: default {}
+23-02-2012 12:24: showlist {}
+23-02-2012 12:24: showlist {'undownloaded': '1'}
+23-02-2012 12:25: showlist {'unchecked': '1'}
+23-02-2012 12:25: showlist {}
+23-02-2012 12:28: showticket {'id': '76'}
+23-02-2012 12:28: showlist {}
+23-02-2012 12:29: showticket {'id': '77'}
+23-02-2012 12:29: showticket {'id': '147'}
+23-02-2012 12:29: showticket {'id': '148'}
+23-02-2012 12:29: default {}
+23-02-2012 12:29: settings {}
+23-02-2012 12:29: default {}
+23-02-2012 16:31: showlist {}
+23-02-2012 16:48: default {}
+23-02-2012 16:48: showlist {}
+23-02-2012 16:48: showlist {'unsent': '1'}
+23-02-2012 16:48: showticket {'id': '388'}
+23-02-2012 16:53: email {'id': '388'}
+23-02-2012 16:53: register {}
+23-02-2012 16:53: showlist {}
+23-02-2012 18:21: register {}
+23-02-2012 18:21: showlist {}
+23-02-2012 18:21: showlist {'unsent': '1'}
+23-02-2012 18:21: showlist {'undownloaded': '1'}
+23-02-2012 20:23: showlist {'undownloaded': '1'}
+24-02-2012 10:05: showlist {}
+24-02-2012 10:05: showticket {'id': '158'}
+24-02-2012 10:05: showpdf {'c': 'E6S08'}
+24-02-2012 10:05: showticket {'id': '159'}
+24-02-2012 10:05: showpdf {'c': '2a2I8'}
+24-02-2012 10:06: showticket {'id': '267'}
+24-02-2012 10:06: showpdf {'c': 'P5oZ9'}
+24-02-2012 10:06: showticket {'id': '268'}
+24-02-2012 10:06: showpdf {'c': 'pA7us'}
+24-02-2012 16:07: showlist {}
+24-02-2012 16:07: showticket {'id': '386'}
+24-02-2012 16:07: showpdf {'c': 'TQnos'}
+24-02-2012 16:08: showticket {'id': '387'}
+24-02-2012 16:08: showpdf {'c': 'WSXtA'}
+24-02-2012 16:08: showticket {'id': '388'}
+24-02-2012 16:08: email {'id': '388'}
+24-02-2012 16:08: showticket {'id': '388'}
+24-02-2012 16:08: showpdf {'c': 'qzl1R'}
+25-02-2012 00:12: default {}
+25-02-2012 00:12: showlist {}
+25-02-2012 00:13: showticket {'id': '124'}
+25-02-2012 00:13: email {'id': '124'}
+25-02-2012 00:14: showticket {'id': '124'}
+25-02-2012 11:51: default {}
+25-02-2012 11:51: showlist {}
+25-02-2012 11:51: showlist {'unchecked': '1'}
+25-02-2012 11:51: showticket {'id': '306'}
+25-02-2012 11:51: showlist {'unchecked': '1'}
+25-02-2012 11:52: showticket {'id': '306'}
+25-02-2012 11:52: email {'id': '306'}
+25-02-2012 11:52: showticket {'id': '306'}
+25-02-2012 11:52: showpdf {'c': 'irXRP'}
+25-02-2012 15:31: default {}
+25-02-2012 15:31: showticket {'id': '306'}
+29-02-2012 19:35: default {}
+29-02-2012 19:36: register {}
+29-02-2012 19:36: insert {'name': '', 'number': '1', 'email': '', 'date': '', 'trans': '', 'payment': 'Bank transfer'}
+29-02-2012 19:36: showticket {'id': '3'}
+29-02-2012 19:36: showpdf {'c': 'Q9Irq'}
+29-02-2012 19:36: showlist {}
+29-02-2012 19:37: showlist {'unsent': '1'}
+29-02-2012 19:37: showlist {'undownloaded': '1'}
+29-02-2012 19:37: showlist {'unsent': '1'}
+29-02-2012 19:37: showlist {'undownloaded': '1'}
+29-02-2012 19:37: showlist {'unchecked': '1'}
+29-02-2012 19:37: settings {}
+29-02-2012 19:38: save_settings {'checkin': 'On'}
+29-02-2012 19:38: register {}
+29-02-2012 19:38: insert {'name': '', 'number': '1', 'email': '', 'date': '', 'trans': '', 'payment': 'Bank transfer'}
+29-02-2012 19:39: register {}
+28-03-2012 21:28: default {}
+28-03-2012 21:28: register {}
+28-03-2012 21:28: showlist {}
+28-03-2012 21:28: showticket {'id': '19'}
+28-03-2012 21:28: settings {}
+28-03-2012 21:29: save_settings {'checkin': 'On'}
+28-03-2012 21:29: register {}
+28-03-2012 21:29: showlist {}
+28-03-2012 21:29: showticket {'id': '1'}
+28-03-2012 21:29: showpdf {'c': 'OvtG0'}
+28-03-2012 21:31: showlist {}
+28-03-2012 21:31: showlist {'unchecked': '1'}
+28-03-2012 21:31: showlist {'unsent': '1'}
+28-03-2012 21:32: showticket {'id': '389'}
+28-03-2012 21:32: showlist {'unsent': '1'}
+28-03-2012 21:32: showticket {'id': '390'}
+28-03-2012 21:32: showlist {'unsent': '1'}
+28-03-2012 21:32: settings {}
+28-03-2012 21:32: save_settings {'checkin': 'Off'}
